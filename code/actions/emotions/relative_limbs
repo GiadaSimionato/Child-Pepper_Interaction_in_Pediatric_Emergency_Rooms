@@ -1,0 +1,11 @@
+TEXT_title
+<*, *, *>: Dr. Pepper
+----
+TEXT_default
+<*, *, it>: Non ti preoccupare, qui sono molto bravi, i miei arti vengono cambiati ogni settimana, vedrai che aiuteranno anche lui.
+<*, *, en>: Don't worry, they are very good here, my limbs are changed every week, you will see that they will help him too.
+----
+TTS
+<*, *, it>: Non ti preoccupare, qui sono molto bravi, i miei arti vengono cambiati ogni settimana, vedrai che aiuteranno anche lui.
+<*, *, en>: Don't worry, they are very good here, my limbs are changed every week, you will see that they will help him too.
+----

@@ -1,0 +1,32 @@
+TEXT_title
+<*, *, *>: Hello
+----
+TEXT_default
+<*,*,es>: Hola, qué idioma hablas?
+<*,*,fr>: CBonjour, quelle langue tu parles?
+<*,*,de>: Hallo, was für eine Sprache sprichst du?
+<*,*,it>: Che lingua parli?
+<*,*,*>:  Which language do you speak?
+----
+TTS
+<*,*,es>: Hola, qué idioma hablas?
+<*,*,fr>: CBonjour, quelle langue tu parles?
+<*,*,de>: Hallo, was für eine Sprache sprichst du?
+<*,*,it>: Che lingua parli?
+<*,*,*>:  Which language do you speak?
+----
+ASR
+<*,*,*>: { 'en': ['english'],  'it': ['italian', 'italiano'], 'fr': ['french', 'francais'], 'es': ['spanish', 'espaniol'], 'de': ['german', 'deutsche'] }
+----
+BUTTONS
+de
+<*,*,*>:   
+en
+<*,*,*>:   
+es
+<*,*,*>:   
+fr
+<*,*,*>:   
+it
+<*,*,*>:   
+----

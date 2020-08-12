@@ -1,0 +1,37 @@
+TEXT_title
+<s,f,it>: Frozen
+<s,f,en>: Frozen
+<l,f,it>: La bella e la bestia
+<l,f,en>: The beauty and the beast
+<*, m, *>: Big Hero 6
+----
+IMAGE_default
+<s, f, *>:  img/stories/frozen/8.png
+<l, f, *>:  img/stories/beautybeast/8.png
+<*, m, *>:  img/stories/bighero6/8.png
+----
+TEXT_default
+<s, f, it>: Anna lasciò Hans al comando del regno e partì per riportare indietro sua sorella e ripristinare l'estate. Cavalcò attraverso il vento, ma il suo cavallo la gettò nella neve e corse di nuovo ad Arendelle. Fortunatamente, incontrò un raccoglitore di ghiaccio di nome Kristoff e la sua renna Sven.
+<s, f, en>: Anna left Hans in charge of the kingdom and left to bring her sister and summer back. She rode through the fierce wind, but her horse threw her into the snow and ran back to Arendelle. Luckily, she met an ice harvester named Kristoff and his reindeer friend Sven. 
+<l, f, it>: Durante la sua prima notte nel castello, Belle face la conoscenza dei servitori. L’incantesimo li aveva trasformati in oggetti incantati! Loro erano simpatici, amichevoli e trattarono Bell come un ospite speciale.
+<l, f, en>: On her first night, Belle met the castle servants. The spell cast by the Enchantress had turned them into enchanted objects! They were funny, friendly, and treated Belle like a special guest.
+<*, m, it>: Baymax lo segue come fosse una bussola, inseguito a sua volta da Hiro. I due arrivano ad un capannone dentro il quale scoprono che qualcuno sta producendo i suoi microbot, questi si attivano e li attaccano controllati da un misterioso individuo mascherato. 
+<*, m, en>: Baymax follows him like a compass, followed in turn by Hiro. The two arrive at a shed inside which they discover that someone is producing their microbots, these are activated and attacked controlled by a mysterious masked individual.
+----
+TTS
+<s, f, it>: Anna lasciò Hans al comando del regno e partì per riportare indietro sua sorella e ripristinare l'estate. Cavalcò attraverso il vento, ma il suo cavallo la gettò nella neve e corse di nuovo ad Arendelle. Fortunatamente, incontrò un raccoglitore di ghiaccio di nome Kristoff e la sua renna Sven.
+<s, f, en>: Anna left Hans in charge of the kingdom and left to bring her sister and summer back. She rode through the fierce wind, but her horse threw her into the snow and ran back to Arendelle. Luckily, she met an ice harvester named Kristoff and his reindeer friend Sven. 
+<l, f, it>: Durante la sua prima notte nel castello, Belle face la conoscenza dei servitori. L’incantesimo li aveva trasformati in oggetti incantati! Loro erano simpatici, amichevoli e trattarono Bell come un ospite speciale.
+<l, f, en>: On her first night, Belle met the castle servants. The spell cast by the Enchantress had turned them into enchanted objects! They were funny, friendly, and treated Belle like a special guest.
+<*, m, it>: Baymax lo segue come fosse una bussola, inseguito a sua volta da Hiro. I due arrivano ad un capannone dentro il quale scoprono che qualcuno sta producendo i suoi microbot, questi si attivano e li attaccano controllati da un misterioso individuo mascherato. 
+<*, m, en>: Baymax follows him like a compass, followed in turn by Hiro. The two arrive at a shed inside which they discover that someone is producing their microbots, these are activated and attacked controlled by a mysterious masked individual.
+----
+ASR
+<*, *, it>: { 'stop': ['stop', 'basta', 'fermati'] }
+<*, *, en>:  { 'stop': ['stop', 'enough'] }
+----
+BUTTONS
+stop
+<*, *, it>: Basta
+<*, *, en>: Stop
+----

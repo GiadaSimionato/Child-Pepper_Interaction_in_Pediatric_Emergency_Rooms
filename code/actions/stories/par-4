@@ -1,0 +1,37 @@
+TEXT_title
+<s,f,it>: Frozen
+<s,f,en>: Frozen
+<l,f,it>: La bella e la bestia
+<l,f,en>: The beauty and the beast
+<*, m, *>: Big Hero 6
+----
+IMAGE_default
+<s, f, *>:  img/stories/frozen/4.png
+<l, f, *>:  img/stories/beautybeast/4.png
+<*, m, *>:  img/stories/bighero6/4.png
+----
+TEXT_default
+<s, f, it>: Dopo questo incidente, i genitori di Elsa si preoccuparono che la gente potesse temere i suoi poteri, quindi circondarono il castello di mura e non lasciarono mai entrare nessuno. Elsa non voleva che sua sorella si ferisse di nuovo, quindi si chiuse a chiave nella stanza. 
+<s, f, en>: After this incident Elsa’s parents worried that people would fear Elsa’s power, so they surrounded the castle with walls and never let anyone inside. Elsa didn’t want her sister to be hurt again, so she locked herself in the room.
+<l, f, it>: Il padre di Belle, Maurice, era un inventore. La sua ultima invenzione era un taglialegna automatico, che voleva portare al concorso della fiera della contea. “Vincerai il primo premio!” Belle gli disse quando la vide.
+<l, f, en>: Belle’s father, Maurice, was an inventor. His latest invention was an automatic woodchopper, which he was taking to the contest at the county fair. “You’ll win first prize!” Belle declared.
+<*, m, it>: Hiro vuole studiare in quella scuola, e per la serata di ammissione realizza dei microbot. Piccoli robot in grado di assumere qualsisasi forma guidati telepaticamente grazie a un piccolo strumento di controllo.
+<*, m, en>: Hiro wants to study in that school, and for the admission evening he makes microbots. Small robots capable of taking any form telepathically guided thanks to a small control tool.
+----
+TTS
+<s, f, it>: Dopo questo incidente, i genitori di Elsa si preoccuparono che la gente potesse temere i suoi poteri, quindi circondarono il castello di mura e non lasciarono mai entrare nessuno. Elsa non voleva che sua sorella si ferisse di nuovo, quindi si chiuse a chiave nella stanza.
+<s, f, en>: After this incident Elsa’s parents worried that people would fear Elsa’s power, so they surrounded the castle with walls and never let anyone inside. Elsa didn’t want her sister to be hurt again, so she locked herself in the room.
+<l, f, it>: Il padre di Belle, Maurice, era un inventore. La sua ultima invenzione era un taglialegna automatico, che voleva portare al concorso della fiera della contea. “Vincerai il primo premio!” Belle gli disse quando la vide.
+<l, f, en>: Belle’s father, Maurice, was an inventor. His latest invention was an automatic woodchopper, which he was taking to the contest at the county fair. “You’ll win first prize!” Belle declared.
+<*, m, it>: Hiro vuole studiare in quella scuola, e per la serata di ammissione realizza dei microbot. Piccoli robot in grado di assumere qualsisasi forma guidati telepaticamente grazie a un piccolo strumento di controllo.
+<*, m, en>: Hiro wants to study in that school, and for the admission evening he makes microbots. Small robots capable of taking any form telepathically guided thanks to a small control tool.
+----
+ASR
+<*, *, it>: { 'stop': ['stop', 'basta', 'fermati'] }
+<*, *, en>:  { 'stop': ['stop', 'enough'] }
+----
+BUTTONS
+stop
+<*, *, it>: Basta
+<*, *, en>: Stop
+----

@@ -1,0 +1,37 @@
+TEXT_title
+<s,f,it>: Frozen
+<s,f,en>: Frozen
+<l,f,it>: La bella e la bestia
+<l,f,en>: The beauty and the beast
+<*, m, *>: Big Hero 6
+----
+IMAGE_default
+<s, f, *>:  img/stories/frozen/17.png
+<l, f, *>:  img/stories/beautybeast/17.png
+<*, m, *>:  img/stories/bighero6/17.png
+----
+TEXT_default
+<s, f, it>: Si frappose tra Hans e sua sorella e la spada di Hans si frantumò contro di lei. Si era trasformata in ghiaccio solido.
+<s, f, en>: Instead of saving herself she leaped in front of her sister. As Hans swung his sword, it shattered against Anna’s frozen body. She had turned into solid ice. 
+<l, f, it>: Poi, una pioggia di scintille riempì l’aria. La bestia si trasformò…in un bellissimo principe!
+<l, f, en>: Then a shower of sparks filled the air. The Beast began to transform… into a handsome prince!
+<*, m, it>: Il professore viene arrestato e pentendosi dei suoi crimini, chiede perdono. Tempo dopo, Hiro, ormai studente dell’istituto, trova nel pugno di Baymax il chip sanitario del robot, con tutte le sue memorie e la programmazione originale. 
+<*, m, en>: The professor is arrested and regretting his crimes, asks for forgiveness. Sometime later, Hiro, now a student at the institute, found the robot's health chip in Baymax's hand, with all its memories and original programming.
+----
+TTS
+<s, f, it>: Si frappose tra Hans e sua sorella e la spada di Hans si frantumò contro di lei. Si era trasformata in ghiaccio solido.
+<s, f, en>: Instead of saving herself she leaped in front of her sister. As Hans swung his sword, it shattered against Anna’s frozen body. She had turned into solid ice. 
+<l, f, it>: Poi, una pioggia di scintille riempì l’aria. La bestia si trasformò…in un bellissimo principe!
+<l, f, en>: Then a shower of sparks filled the air. The Beast began to transform… into a handsome prince!
+<*, m, it>: Il professore viene arrestato e pentendosi dei suoi crimini, chiede perdono. Tempo dopo, Hiro, ormai studente dell’istituto, trova nel pugno di Baymax il chip sanitario del robot, con tutte le sue memorie e la programmazione originale. 
+<*, m, en>: The professor is arrested and regretting his crimes, asks for forgiveness. Sometime later, Hiro, now a student at the institute, found the robot's health chip in Baymax's hand, with all its memories and original programming.
+----
+ASR
+<*, *, it>: { 'stop': ['stop', 'basta', 'fermati'] }
+<*, *, en>:  { 'stop': ['stop', 'enough'] }
+----
+BUTTONS
+stop
+<*, *, it>: Basta
+<*, *, en>: Stop
+----

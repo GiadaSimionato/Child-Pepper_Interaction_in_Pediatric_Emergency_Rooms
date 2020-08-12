@@ -1,0 +1,14 @@
+TEXT_default
+<*,*,it>: Ho capito. Aspettiamo insieme allora!
+<*,*,es>: Vale, he entendido. Entonces esperemos juntos!
+<*,*,fr>: J’ai compris. Alors, nous attendons tous ensemble!
+<*,*,de>: Dann warten wir hier zusammen!
+<*,*,*>:  I understand. Let's wait together then!
+----
+TTS
+<*,*,it>: Ho capito. Aspettiamo insieme allora!
+<*,*,es>: Vale, he entendido. Entonces esperemos juntos!
+<*,*,fr>: J’ai compris. Alors, nous attendons tous ensemble!
+<*,*,de>: Dann warten wir hier zusammen!
+<*,*,*>:  I understand. Let's wait together then!
+----

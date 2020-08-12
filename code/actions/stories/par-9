@@ -1,0 +1,35 @@
+TEXT_title
+<s,f,it>: Frozen
+<s,f,en>: Frozen
+<l,f,it>: La bella e la bestia
+<l,f,en>: The beauty and the beast
+<*, m, *>: Big Hero 6
+----
+IMAGE_default
+<s, f, *>:  img/stories/frozen/9.png
+<l, f, *>:  img/stories/beautybeast/9.png
+<*, m, *>:  img/stories/bighero6/9.png
+----
+TEXT_default
+<s, f, it>: Salendo sulla montagna, incontrarono un pupazzo di neve incantato di nome Olaf, desideroso di aiutarli. Quando il cavallo di Elsa tornò al castello senza di lei, Hans capì che era nei guai. Lui e alcuni soldati partirono quindi per cercare le due principesse.
+<s, f, en>: As they climbed the mountain, they met an enchanted snowman named Olaf, he was eager to help them. But when Elsa’s horse came back to the castle without her, Hans knew she was in trouble. He and some soldiers went to find the two princesses.
+<l, f, it>: Quando fu ora di cena, Belle rifiutò l’invito della Bestia a unirsi a lui, facendolo urlare pieno di rabbia. Era ansioso di mettere fine all’incantesimo, e vedeva in Belle il segno della speranza. Mrs.Potts, la teiera, e Lumiere, gli dissero di essere paziente e soprattutto, gentile.
+<l, f, en>: At dinner time, Belle refused the Beast’s invitation to join him, which made him roar with frustration. He was anxious to end the spell, and felt Belle was a sign of hope. Mrs. Potts, the teapot and Lumiere, told him to be patient and above all, kind.
+<*, m, it>: Hiro sfuggito all’attacco, torna a casa e decide di costruire un’armatura e un chip da combattimento per Baymax, per scoprire di piu sul criminale mascherato. Baymax riconosce il gruppo sanguigno dell’uomo e lo localizza su un’isola abbandonata. 
+<*, m, en>: Hiro escaped the attack, returns home and decides to build armor and a combat chip for Baymax, to find out more about the masked criminal. Baymax recognizes the human blood group and locates it on an abandoned island.
+----
+TTS
+<s, f, it>: Salendo sulla montagna, incontrarono un pupazzo di neve incantato di nome Olaf, desideroso di aiutarli. Quando il cavallo di Elsa tornò al castello senza di lei, Hans capì che era nei guai. Lui e alcuni soldati partirono quindi per cercare le due principesse.
+<s, f, en>: As they climbed the mountain, they met an enchanted snowman named Olaf, he was eager to help them. But when Elsa’s horse came back to the castle without her, Hans knew she was in trouble. He and some soldiers went to find the two princesses.
+<l, f, it>: Quando fu ora di cena, Belle rifiutò l’invito della Bestia a unirsi a lui, facendolo urlare pieno di rabbia. Era ansioso di mettere fine all’incantesimo, e vedeva in Belle il segno della speranza. Mrs.Potts, la teiera, e Lumiere, gli dissero di essere paziente e soprattutto, gentile.
+<l, f, en>: At dinner time, Belle refused the Beast’s invitation to join him, which made him roar with frustration. He was anxious to end the spell, and felt Belle was a sign of hope. Mrs. Potts, the teapot and Lumiere, told him to be patient and above all, kind.
+----
+ASR
+<*, *, it>: { 'stop': ['stop', 'basta', 'fermati'] }
+<*, *, en>:  { 'stop': ['stop', 'enough'] }
+----
+BUTTONS
+stop
+<*, *, it>: Basta
+<*, *, en>: Stop
+----

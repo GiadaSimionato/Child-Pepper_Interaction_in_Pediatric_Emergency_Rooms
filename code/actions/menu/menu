@@ -1,0 +1,32 @@
+TEXT_title
+<*,*,*>: Menu
+----
+IMAGE_default
+<*, *, *>:  img/default_image.png
+----
+TEXT_default
+<*, *, it>: Cosa vuoi fare?
+<*, *, en>: What do you want to do?
+----
+BUTTONS
+games
+<*, *, it>: Giochi
+<*, *, en>: Games
+stories
+<*, *, it>: Storie
+<*, *, en>: Stories
+videos
+<*, *, it>: Video
+<*, *, en>: Videos
+home
+<*, *, it>: Basta
+<*, *, en>: Stop
+----
+TTS
+<*, *, it>: Cosa vuoi fare?
+<*, *, en>: What do you want to do?
+----
+ASR
+<*, *, it>: { 'games': ['giocare', 'giochi', 'gioco', 'voglio giocare'], 'stories':['storie', 'storia', 'raccontami una storia'], 'videos':['voglio vedere un video', 'video'], 'home':['stop', 'basta'] }
+<*, *, en>: { 'games': ['game', 'games', 'play videogame', 'want to play'], 'stories':['story', 'stories', 'tale', 'tales', 'tell me a story'], 'videos':['video', 'videos', 'show me a video'], 'home':['stop'] }
+----

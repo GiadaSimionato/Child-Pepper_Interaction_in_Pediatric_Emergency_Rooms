@@ -1,0 +1,14 @@
+TEXT_title
+<*, *, *>: Candy Game!
+----
+IMAGE_default
+<*, *, *>:  img/default_image.png
+----
+TEXT_default
+<*, *, it>: Bravissimo, hai indovinato!
+<*, *, en>: Very good, you guessed it!
+----
+TTS
+<*, *, it>: Bravissimo, hai indovinato!
+<*, *, en>: Very good, you guessed it!
+----

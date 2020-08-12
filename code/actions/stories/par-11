@@ -1,0 +1,37 @@
+TEXT_title
+<s,f,it>: Frozen
+<s,f,en>: Frozen
+<l,f,it>: La bella e la bestia
+<l,f,en>: The beauty and the beast
+<*, m, *>: Big Hero 6
+----
+IMAGE_default
+<s, f, *>:  img/stories/frozen/11.png
+<l, f, *>:  img/stories/beautybeast/11.png
+<*, m, *>:  img/stories/bighero6/11.png
+----
+TEXT_default
+<s, f, it>: Dentro, Anna raccontò a Elsa della terribile tempesta di Arendelle. Elsa aveva paura che se fosse tornata, avrebbe potuto peggiorare la tempesta. Anna cercò ripetutamente di convincere Elsa a tornare a casa. Mentre Elsa discuteva con sua sorella, un'onda gelida di magia esplose dal suo corpo e colpì Anna sul petto. Elsa li costrinse quindi a lasciare il suo palazzo.
+<s, f, en>: Inside, Anna told Elsa about the terrible storm in Arendelle. Elsa was afraid that if she went back, she could make the storm worse. Anna tried repeatedly to convince Elsa to come home. As Elsa argued with her sister, an icy wave of magic burst from her body, and struck Anna in the chest. Elsa force them to leave her palace.
+<l, f, it>: Bella lasciò il castello con il suo cavallo ma fu attaccata dagli stessi lupi che attaccarono il padre. Rischiando la propria vita, la bestia salvò Belle! Nei giorni seguenti, Belle iniziò a vedere il buono che era in lui.
+<l, f, en>: Belle fled the castle on her horse but was attacked by the same wolves that had chased her father. Risking his life, the beast saves Belle! In the days that followed, Belle began to see the goodness in the Beast.
+<*, m, it>: In quel momento, il criminale mascherato attacca la squadra ma viene battuto e si rivela essere il professor Callagan che rivela di essersi salvato dall’esplosione grazie ai microbot. 
+<*, m, en>: At that moment, the masked criminal attacks the team but is beaten and turns out to be Professor Callagan who reveals that he saved himself from the explosion thanks to the microbots.
+----
+TTS
+<s, f, it>: Dentro, Anna raccontò a Elsa della terribile tempesta di Arendelle. Elsa aveva paura che se fosse tornata, avrebbe potuto peggiorare la tempesta. Anna cercò ripetutamente di convincere Elsa a tornare a casa. Mentre Elsa discuteva con sua sorella, un'onda gelida di magia esplose dal suo corpo e colpì Anna sul petto. Elsa li costrinse quindi a lasciare il suo palazzo.
+<s, f, en>: Inside, Anna told Elsa about the terrible storm in Arendelle. Elsa was afraid that if she went back, she could make the storm worse. Anna tried repeatedly to convince Elsa to come home. As Elsa argued with her sister, an icy wave of magic burst from her body, and struck Anna in the chest. Elsa force them to leave her palace.
+<l, f, it>: Bella lasciò il castello con il suo cavallo ma fu attaccata dagli stessi lupi che attaccarono il padre. Rischiando la propria vita, la bestia salvò Belle! Nei giorni seguenti, Belle iniziò a vedere il buono che era in lui.
+<l, f, en>: Belle fled the castle on her horse but was attacked by the same wolves that had chased her father. Risking his life, the beast saves Belle! In the days that followed, Belle began to see the goodness in the Beast.
+<*, m, it>: In quel momento, il criminale mascherato attacca la squadra ma viene battuto e si rivela essere il professor Callagan che rivela di essersi salvato dall’esplosione grazie ai microbot. 
+<*, m, en>: At that moment, the masked criminal attacks the team but is beaten and turns out to be Professor Callagan who reveals that he saved himself from the explosion thanks to the microbots.
+----
+ASR
+<*, *, it>: { 'stop': ['stop', 'basta', 'fermati'] }
+<*, *, en>:  { 'stop': ['stop', 'enough'] }
+----
+BUTTONS
+stop
+<*, *, it>: Basta
+<*, *, en>: Stop
+----

@@ -1,0 +1,31 @@
+TEXT_title
+<*, *, *>: Color Pattern!
+----
+IMAGE_default
+<*, *, *>:  img/default_image.png
+----
+TEXT_default
+<*, *, it>: Scegli il colore successivo
+<*, *, en>: Choose the next color
+----
+TTS
+<*, *, it>: Scegli il colore successivo
+<*, *, en>: Choose the next color
+----
+BUTTONS
+red
+<*, *, en>: Red
+<*, *, it>: Rosso
+blue
+<*, *, en>: Blue
+<*, *, it>: Blu
+green
+<*, *, en>: Green
+<*, *, it>: Verde
+yellow
+<*, *, en>: Yellow
+<*, *, it>: Giallo
+stop
+<*, *, it>: Basta
+<*, *, en>: Stop
+----

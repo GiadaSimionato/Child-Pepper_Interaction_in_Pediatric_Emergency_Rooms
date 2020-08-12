@@ -1,0 +1,37 @@
+TEXT_title
+<s,f,it>: Frozen
+<s,f,en>: Frozen
+<l,f,it>: La bella e la bestia
+<l,f,en>: The beauty and the beast
+<*, m, *>: Big Hero 6
+----
+IMAGE_default
+<s, f, *>:  img/stories/frozen/10.png
+<l, f, *>:  img/stories/beautybeast/10.png
+<*, m, *>:  img/stories/bighero6/10.png
+----
+TEXT_default
+<s, f, it>: Sulla montagna, Olaf condusse Anna e Kristoff al gigantesco palazzo di ghiaccio che Elsa aveva creato con i suoi poteri.
+<s, f, en>: Back on the mountain, Olaf led Anna and Kristoff to a giant ice palace that Elsa had created with her powers.
+<l, f, it>: Piu tardi quella notte, Belle vide la rosa magica che l’incantatrice aveva lasciato. Quando Belle provò a toccarla, la Bestia apparve e gli urlò di andarsene.
+<l, f, en>: Later that night, Belle came upon the magic rose the Enchantress had left him. As Belle reached out to touch it, the Beast appeared and grabbed the precious rose. “Get out!” he yelled.
+<*, m, it>: Hiro e gli amici di Tadashi arrivano sull’isola e li scoprono che l’imprenditore Allistar Krei, aveva finanziato un progetto per un portale per il teletrasporto. Durante il test il portale aveva avuto un guasto e la pilota che aveva eseguito il test non era piu tornata… 
+<*, m, en>: Hiro and Tadashi's friends arrive on the island and discover that the businessman Allistar Krei had funded a project for a portal for teleportation. During the test the portal had had a breakdown and the pilot who had carried out the test had never returned ...
+----
+TTS
+<s, f, it>: Sulla montagna, Olaf condusse Anna e Kristoff al gigantesco palazzo di ghiaccio che Elsa aveva creato con i suoi poteri.
+<s, f, en>: Back on the mountain, Olaf led Anna and Kristoff to a giant ice palace that Elsa had created with her powers.
+<l, f, it>: Piu tardi quella notte, Belle vide la rosa magica che l’incantatrice aveva lasciato. Quando Belle provò a toccarla, la Bestia apparve e gli urlò di andarsene.
+<l, f, en>: Later that night, Belle came upon the magic rose the Enchantress had left him. As Belle reached out to touch it, the Beast appeared and grabbed the precious rose. “Get out!” he yelled.
+<*, m, it>: Hiro e gli amici di Tadashi arrivano sull’isola e li scoprono che l’imprenditore Allistar Krei, aveva finanziato un progetto per un portale per il teletrasporto. Durante il test il portale aveva avuto un guasto e la pilota che aveva eseguito il test non era piu tornata… 
+<*, m, en>: Hiro and Tadashi's friends arrive on the island and discover that the businessman Allistar Krei had funded a project for a portal for teleportation. During the test the portal had had a breakdown and the pilot who had carried out the test had never returned ...
+----
+ASR
+<*, *, it>: { 'stop': ['stop', 'basta', 'fermati'] }
+<*, *, en>:  { 'stop': ['stop', 'enough'] }
+----
+BUTTONS
+stop
+<*, *, it>: Basta
+<*, *, en>: Stop
+----

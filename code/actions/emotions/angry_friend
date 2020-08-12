@@ -1,0 +1,11 @@
+TEXT_title
+<*, *, *>: Dr. Pepper
+----
+TEXT_default
+<*, f, it>: Ti capisco, anche io mi annoio quando sono solo qui, che ne dici di divertirci un po insieme?
+<*, *, en>: I understand you, I also get bored when I'm alone here, how about having some fun together?
+----
+TTS
+<*, f, it>: Ti capisco, anche io mi annoio quando sono solo qui, che ne dici di divertirci un po insieme?
+<*, *, en>: I understand you, I also get bored when I'm alone here, how about having some fun together?
+----

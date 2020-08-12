@@ -1,0 +1,37 @@
+TEXT_title
+<s,f,it>: Frozen
+<s,f,en>: Frozen
+<l,f,it>: La bella e la bestia
+<l,f,en>: The beauty and the beast
+<*, m, *>: Big Hero 6
+----
+IMAGE_default
+<s, f, *>:  img/stories/frozen/13.png
+<l, f, *>:  img/stories/beautybeast/13.png
+<*, m, *>:  img/stories/bighero6/13.png
+----
+TEXT_default
+<s, f, it>: Nel frattempo, Hans ei suoi soldati arrivarono al palazzo del ghiaccio e attaccarono Elsa. In un momento di esitazione, i soldati la catturarono, la riportarono ad Arendelle e la gettarono nel sotterraneo.
+<s, f, en>: Meanwhile Hans and his soldiers arrived at the ice palace and attacked Elsa. In a moment of doubt, the soldiers knocked her out, and brought her back to Arendelle and threw her in the dungeon.
+<l, f, it>: Per via del suo amore, la Bestia lasciò che Belle tornasse a casa da suo padre
+<l, f, en>: Because of his love, the Beast let Belle return home to see her father.
+<*, m, it>: Il giovane, una volta a casa, tenta nuovamente di rimuovere il chip sanitario dal robot, ma Baymax lo ferma e lo fa ragionare sul fatto di uccedere Callaghan, facendgli anche vedere tutti i tentativi del fratello di crearlo. 
+<*, m, en>: Once at home, the young man tries again to remove the sanitary chip from the robot, but Baymax stops him and makes him think about killing Callaghan, also showing him all the brother's attempts to create it.
+----
+TTS
+<s, f, it>: Nel frattempo, Hans ei suoi soldati arrivarono al palazzo del ghiaccio e attaccarono Elsa. In un momento di esitazione, i soldati la catturarono, la riportarono ad Arendelle e la gettarono nel sotterraneo.
+<s, f, en>: Meanwhile Hans and his soldiers arrived at the ice palace and attacked Elsa. In a moment of doubt, the soldiers knocked her out, and brought her back to Arendelle and threw her in the dungeon.
+<l, f, it>: Per via del suo amore, la Bestia lasciò che Belle tornasse a casa da suo padre
+<l, f, en>: Because of his love, the Beast let Belle return home to see her father.
+<*, m, it>: Il giovane, una volta a casa, tenta nuovamente di rimuovere il chip sanitario dal robot, ma Baymax lo ferma e lo fa ragionare sul fatto di uccedere Callaghan, facendgli anche vedere tutti i tentativi del fratello di crearlo. 
+<*, m, en>: Once at home, the young man tries again to remove the sanitary chip from the robot, but Baymax stops him and makes him think about killing Callaghan, also showing him all the brother's attempts to create it.
+----
+ASR
+<*, *, it>: { 'stop': ['stop', 'basta', 'fermati'] }
+<*, *, en>:  { 'stop': ['stop', 'enough'] }
+----
+BUTTONS
+stop
+<*, *, it>: Basta
+<*, *, en>: Stop
+----

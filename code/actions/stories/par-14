@@ -1,0 +1,37 @@
+TEXT_title
+<s,f,it>: Frozen
+<s,f,en>: Frozen
+<l,f,it>: La bella e la bestia
+<l,f,en>: The beauty and the beast
+<*, m, *>: Big Hero 6
+----
+IMAGE_default
+<s, f, *>:  img/stories/frozen/14.png
+<l, f, *>:  img/stories/beautybeast/14.png
+<*, m, *>:  img/stories/bighero6/14.png
+----
+TEXT_default
+<s, f, it>: Quando Anna arrivò ad Arendelle, corse da Hans. Anna gli chiese di salvarla con un bacio, ma lui rifiutò. Anna allora si rese conto che aveva solo finto di amarla. Voleva conquistare Arendelle sbarazzandosi di lei e sua sorella e la lasciò sola e tremante.
+<s, f, en>: When Anna arrived to Arendelle, she raced to see Hans. Anna asked Hans to save her with a kiss, but he refused. Anna realized that he had only pretended to love her. He wanted to take over Arendelle by getting rid of her and her sister. He left Anna alone and shivering.
+<l, f, it>: Quando Gaston senti parlare cosi bene della Bestia, divenne geloso e assaltò il castello. Accoltellò la bestia e poi cadde accidentalmente dal tetto.
+<l, f, en>: When Gaston heard her speak fondly of the Beast, he grew jealous and stormed the castle. Gaston stabbed the Beast and then was accidentally knocked off the roof.
+<*, m, it>: Hiro capisce e si riappacifica con i suoi amici che lo raggiungono e gli fanno vedere un filmato. La pilota scomparsa nel portale era la figlia di Callaghan, e quest’ultimo aveva segnalato l’anomalia all’imprenditore. Il professore ha perso la figlia a causa sua, e vuole ricostruire il portale per vendetta.
+<*, m, en>: Hiro understands and reconciles with his friends who join him and show him a movie. The pilot who disappeared in the portal was Callaghan's daughter, and the latter had reported the anomaly to the businessman. The professor has lost his daughter because of him and wants to rebuild the portal for revenge.
+----
+TTS
+<s, f, it>: Quando Anna arrivò ad Arendelle, corse da Hans. Anna gli chiese di salvarla con un bacio, ma lui rifiutò. Anna allora si rese conto che aveva solo finto di amarla. Voleva conquistare Arendelle sbarazzandosi di lei e sua sorella e la lasciò sola e tremante.
+<s, f, en>: When Anna arrived to Arendelle, she raced to see Hans. Anna asked Hans to save her with a kiss, but he refused. Anna realized that he had only pretended to love her. He wanted to take over Arendelle by getting rid of her and her sister. He left Anna alone and shivering.
+<l, f, it>: Quando Gaston senti parlare cosi bene della Bestia, divenne geloso e assaltò il castello. Accoltellò la bestia e poi cadde accidentalmente dal tetto.
+<l, f, en>: When Gaston heard her speak fondly of the Beast, he grew jealous and stormed the castle. Gaston stabbed the Beast and then was accidentally knocked off the roof.
+<*, m, it>: Hiro capisce e si riappacifica con i suoi amici che lo raggiungono e gli fanno vedere un filmato. La pilota scomparsa nel portale era la figlia di Callaghan, e quest’ultimo aveva segnalato l’anomalia all’imprenditore. Il professore ha perso la figlia a causa sua, e vuole ricostruire il portale per vendetta.
+<*, m, en>: Hiro understands and reconciles with his friends who join him and show him a movie. The pilot who disappeared in the portal was Callaghan's daughter, and the latter had reported the anomaly to the businessman. The professor has lost his daughter because of him and wants to rebuild the portal for revenge.
+----
+ASR
+<*, *, it>: { 'stop': ['stop', 'basta', 'fermati'] }
+<*, *, en>:  { 'stop': ['stop', 'enough'] }
+----
+BUTTONS
+stop
+<*, *, it>: Basta
+<*, *, en>: Stop
+----

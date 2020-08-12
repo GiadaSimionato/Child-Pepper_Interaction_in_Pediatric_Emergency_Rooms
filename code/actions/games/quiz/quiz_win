@@ -1,0 +1,14 @@
+TEXT_title
+<*, *, *>: Quiz Time!
+----
+IMAGE_default
+<*, *, *>:  img/default_image.png
+----
+TEXT_default
+<*, *, it>: Congratulazioni! Hai vinto il quiz di Pepper!
+<*, *, en>: Congratulations! You have won the Pepper quiz!
+----
+TTS
+<*, *, it>: Congratulazioni! Hai vinto il quiz di Pepper!
+<*, *, en>: Congratulations! You have won the Pepper quiz!
+----

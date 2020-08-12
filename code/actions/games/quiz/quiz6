@@ -1,0 +1,63 @@
+TEXT_title
+<*, *, *>: Quiz Time!
+----
+IMAGE_default
+<s, *, *>:  img/quiz/frozen.jpg
+----
+TEXT_default
+<s, *, it>: Quanti bottoni ha il pupazzo di neve?
+<s, *, en>: How many buttons does the snowman have?
+<m, *, it>: Di che colore sono le fragole?
+<m, *, en>: What color are strawberries?
+<l, *, it>: Che lingua si parla in Svezia?
+<l, *, en>: What language is spoken in Sweden?
+----
+TTS
+<s, *, it>: Quanti bottoni ha il pupazzo di neve?
+<s, *, en>: How many buttons does the snowman have?
+<m, *, it>: Di che colore sono le fragole?
+<m, *, en>: What color are strawberries?
+<l, *, it>: Che lingua si parla in Svezia?
+<l, *, en>: What language is spoken in Sweden?
+----
+BUTTONS
+wrong
+<s, *, it>: 5
+<s, *, en>: 5
+<m, *, it>: Arancioni
+<m, *, en>: Orange
+<l, *, it>: Francese
+<l, *, en>: French
+wrong
+<s, *, it>: 2
+<s, *, en>: 2
+<m, *, it>: Verdi
+<m, *, en>: Green
+<l, *, it>: Spagnolo
+<l, *, en>: Spanish
+correct
+<s, *, it>: 3
+<s, *, en>: 3
+<m, *, it>: Rosse
+<m, *, en>: Red
+<l, *, it>: Svedese
+<l, *, en>: Swedish
+wrong
+<s, *, it>: 4
+<s, *, en>: 4
+<m, *, it>: Blu
+<m, *, en>: Blue
+<l, *, it>: Svizzero
+<l, *, en>: Swiss
+stop
+<*, *, it>: Basta
+<*, *, en>: Stop
+----
+ASR
+<s, *, it>: { 'correct': ['3'], 'wrong': ['5', '2', '4'], 'stop': ['stop', 'basta', 'fermati'] }
+<s, *, en>: { 'correct': ['3'], 'wrong': ['5', '2', '4'], 'stop': ['stop', 'enough'] }
+<m, *, it>: { 'correct': ['Rosse'], 'wrong': ['Arancioni', 'Verdi', 'Blu'], 'stop': ['stop', 'basta', 'fermati'] }
+<m, *, en>: { 'correct': ['Red'], 'wrong': ['Orange', 'Verdi', 'Blue'], 'stop': ['stop', 'enough'] }
+<l, *, it>: { 'correct': ['Svedese'], 'wrong': ['Francese', 'Spagnolo', 'Svizzero'], 'stop': ['stop', 'basta', 'fermati'] }
+<l, *, en>: { 'correct': ['Swedish'], 'wrong': ['French', 'Spanish', 'Swiss'], 'stop': ['stop', 'enough'] }
+----

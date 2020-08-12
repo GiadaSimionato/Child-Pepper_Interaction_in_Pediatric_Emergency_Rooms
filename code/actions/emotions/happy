@@ -1,0 +1,11 @@
+TEXT_title
+<*, *, *>: Dr. Pepper
+----
+TEXT_default
+<*, *, it>: Mi sembri di buon umore, che ne dici di fare qualcosa?
+<*, *, en>: You seem to be in a good mood, how about doing something?
+----
+TTS
+<*, *, it>: Mi sembri di buon umore, che ne dici di fare qualcosa?
+<*, *, en>: You seem to be in a good mood, how about doing something?
+----

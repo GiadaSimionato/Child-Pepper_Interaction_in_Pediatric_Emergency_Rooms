@@ -1,0 +1,11 @@
+TEXT_title
+<*, *, *>: Dr. Pepper
+----
+TEXT_default
+<*, *, it>: Ma no non aver paura, non fa male!
+<*, *, en>: Oh don't be afraid, it doesn't hurt!
+----
+TTS
+<*, *, it>: Ma no non aver paura, non fa male!
+<*, *, en>: Oh don't be afraid, it doesn't hurt!
+----

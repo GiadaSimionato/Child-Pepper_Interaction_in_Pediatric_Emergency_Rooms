@@ -1,0 +1,11 @@
+TEXT_title
+<*, *, *>: Dr. Pepper
+----
+TEXT_default
+<*, *, it>: OK, se ti serve qualcosa vieni da me.
+<*, *, en>: Ok, if you need something come to me.
+----
+TTS
+<*, *, it>: OK, se ti serve qualcosa vieni da me.
+<*, *, en>: Ok, if you need something come to me.
+----

@@ -1,0 +1,33 @@
+TEXT_title
+<s,f,it>: Giochi
+<s,f,en>: Games
+----
+IMAGE_default
+<*, *, *>:  img/default_image.png
+----
+TEXT_default
+<*, *, it>: A cosa vuoi giocare?
+<*, *, en>: What game do you want to play?
+----
+BUTTONS
+candy
+<*, *, it>: Candy
+<*, *, en>: Candy
+patterns
+<*, *, it>: Patterns
+<*, *, en>: Patterns
+quiz
+<*, *, it>: Quiz
+<*, *, en>: Quiz
+none
+<*, *, it>: Indietro
+<*, *, en>: Back
+----
+TTS
+<*, *, it>: A cosa vuoi giocare?
+<*, *, en>: What game do you want to play?
+----
+ASR
+<*, *, it>: { 'candy': ['candy'], 'patterns':['patterns'], 'quiz':['quiz'], 'none':['nessuno', 'indietro']}
+<*, *, en>: { 'candy': ['candy'], 'patterns':['patterns'], 'quiz':['quiz'], 'none':['none', 'go back']}
+----

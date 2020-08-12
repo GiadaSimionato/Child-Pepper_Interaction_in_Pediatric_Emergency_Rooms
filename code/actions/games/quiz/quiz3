@@ -1,0 +1,63 @@
+TEXT_title
+<*, *, *>: Quiz Time!
+----
+IMAGE_default
+<*, *, *>:  img/default_image.png
+----
+TEXT_default
+<s, *, it>: Quanti sono i giorni della settimana?
+<s, *, en>: How many days of the week are there?
+<m, *, it>: Nel gioco “Super Mario Bros”, Mario e Luigi sono…
+<m, *, en>: In the game "Super Mario Bros", Mario and Luigi are ...
+<l, *, it>: Chi è l'autore della divina commedia?
+<l, *, en>: Who is the author of the divine comedy?
+----
+TTS
+<s, *, it>: Quanti sono i giorni della settimana?
+<s, *, en>: How many days of the week are there?
+<m, *, it>: Nel gioco “Super Mario Bros”, Mario e Luigi sono…
+<m, *, en>: In the game "Super Mario Bros", Mario and Luigi are ...
+<l, *, it>: Chi è l'autore della divina commedia?
+<l, *, en>: Who is the author of the divine comedy?
+----
+BUTTONS
+wrong
+<s, *, it>: 6
+<s, *, en>: 6
+<m, *, it>: pompieri
+<m, *, en>: firefighters
+<l, *, it>: Manzoni
+<l, *, en>: Manzoni
+wrong
+<s, *, it>: 4
+<s, *, en>: 4
+<m, *, it>: ingegneri
+<m, *, en>: engineers
+<l, *, it>: Boccaccio
+<l, *, en>: Boccaccio
+correct
+<s, *, it>: 7
+<s, *, en>: 7
+<m, *, it>: idraulici
+<m, *, en>: plumbers
+<l, *, it>: Dante
+<l, *, en>: Dante
+wrong
+<s, *, it>: 8
+<s, *, en>: 8
+<m, *, it>: elettricisti
+<m, *, en>: electricians
+<l, *, it>: Petrarca
+<l, *, en>: Petrarca
+stop
+<*, *, it>: Basta
+<*, *, en>: Stop
+----
+ASR
+<s, *, it>: { 'correct': ['sette','7'], 'wrong': ['otto', 'quattro', 'sei','8','4','6'], 'stop': ['stop', 'basta', 'fermati'] }
+<s, *, en>: { 'correct': ['seven','7'], 'wrong': ['eight', 'four', 'six','8','4','6'], 'stop': ['stop', 'enough']  }
+<m, *, it>: { 'correct': ['idraulici'], 'wrong': ['pompieri', 'ingegneri', 'elettricisti'], 'stop': ['stop', 'basta', 'fermati'] }
+<m, *, en>: { 'correct': ['plumbers'], 'wrong': ['firefighters', 'engineers', 'electricians'], 'stop': ['stop', 'enough']  }
+<l, *, it>: { 'correct': ['Dante'], 'wrong': ['Manzoni', 'Boccaccio', 'Petrarca'], 'stop': ['stop', 'basta', 'fermati'] }
+<l, *, en>: { 'correct': ['Dante'], 'wrong': ['Manzoni', 'Boccaccio', 'Petrarca'], 'stop': ['stop', 'enough']  }
+----

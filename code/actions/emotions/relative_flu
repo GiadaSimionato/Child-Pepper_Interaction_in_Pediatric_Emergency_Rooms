@@ -1,0 +1,11 @@
+TEXT_title
+<*, *, *>: Dr. Pepper
+----
+TEXT_default
+<*, *, it>: Ah non ti preoccupare, è una malattia lieve, guarirà presto.
+<*, *, en>: Ah don't worry, it's a mild disease, it will heal soon.
+----
+TTS
+<*, *, it>: Ah non ti preoccupare, è una malattia lieve, guarirà presto.
+<*, *, en>: Ah don't worry, it's a mild disease, it will heal soon.
+----

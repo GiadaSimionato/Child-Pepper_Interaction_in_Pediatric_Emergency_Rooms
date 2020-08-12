@@ -1,0 +1,14 @@
+TEXT_title
+<*, *, *>: Color Pattern!
+----
+IMAGE_default
+<*, *, *>:  img/default_image.png
+----
+TEXT_default
+<*, *, it>: Oh no! Hai inserito un colore sbagliato.
+<*, *, en>: Oh no! You entered the wrong color.
+----
+TTS
+<*, *, it>: Oh no! Hai inserito un colore sbagliato.
+<*, *, en>: Oh no! You entered the wrong color.
+----

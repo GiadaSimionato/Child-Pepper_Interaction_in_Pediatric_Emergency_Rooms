@@ -1,0 +1,14 @@
+TEXT_title
+<*, *, *>: Quiz Time!
+----
+IMAGE_default
+<*, *, *>:  img/default_image.png
+----
+TEXT_default
+<*, *, it>: Risposta esatta!
+<*, *, en>: Correct answer!
+----
+TTS
+<*, *, it>: Risposta esatta!
+<*, *, en>: Correct answer!
+----

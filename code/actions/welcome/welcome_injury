@@ -1,0 +1,14 @@
+TEXT_default
+<*,*,it>: Oh, non ti preoccupare, starai meglio presto.
+<*,*,de>: Oh, mach dir keine Sorgen, es wird bald alles wieder gut.
+<*,*,es>: Oh, no te preocupes, pronto estarás mejor.
+<*,*,fr>: Oh, ne t’inquiète pas, tu iras mieux.
+<*,*,*>:  Oh, don't worry, you will get better soon.
+----
+TTS
+<*,*,it>: Oh, non ti preoccupare, starai meglio presto.
+<*,*,de>: Oh, mach dir keine Sorgen, es wird bald alles wieder gut.
+<*,*,es>: Oh, no te preocupes, pronto estarás mejor.
+<*,*,fr>: Oh, ne t’inquiète pas, tu iras mieux.
+<*,*,*>:  Oh, don't worry, you will get better soon.
+----

@@ -1,0 +1,11 @@
+TEXT_title
+<*, *, *>: Dr. Pepper
+----
+TEXT_default
+<*, *, it>: Ma no tranquillo, io il dottore lo conosco, è gentile!.
+<*, *, en>: Oh don't worry, I know the doctor, he is kind!
+----
+TTS
+<*, *, it>: Ma no tranquillo, io il dottore lo conosco, è gentile!.
+<*, *, en>: Oh don't worry, I know the doctor, he is kind!
+----

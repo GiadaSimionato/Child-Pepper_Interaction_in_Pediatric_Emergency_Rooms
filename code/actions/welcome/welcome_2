@@ -1,0 +1,22 @@
+
+TEXT_title
+<*,*,en>: Hello!
+<*,*,it>: Ciao! 
+<*,*,es>: Buenos dias!
+<*,*,de>: Gutentag!
+<*,*,fr>: Bonjour!
+----
+TEXT_default
+<*,*,en>: My name is Pepper and I'm here to play with you. What about you, what's your name?
+<*,*,it>: Io sono Pepper e sono qui per giocare con te. Tu come ti chiami?
+<*,*,es>: Yo soy Pepper y estoy aquí para jugar contigo. Como te llamas? 
+<*,*,de>: Mein Name ist Pepper und ich bin hier um mit dir zu spielen. Wie heißt du?
+<*,*,fr>: Je suis Pepper et je suis ici pour jouer avec toi. Comment tu t’appelles? 
+----
+TTS
+<*,*,en>: My name is Pepper and I'm here to play with you. What about you, what's your name?
+<*,*,it>: Io sono Pepper e sono qui per giocare con te. Tu come ti chiami?
+<*,*,es>: Yo soy Pepper y estoy aquí para jugar contigo. Como te llamas? 
+<*,*,de>: Mein Name ist Pepper und ich bin hier um mit dir zu spielen. Wie heißt du?
+<*,*,fr>: Je suis Pepper et je suis ici pour jouer avec toi. Comment tu t’appelles? 
+----

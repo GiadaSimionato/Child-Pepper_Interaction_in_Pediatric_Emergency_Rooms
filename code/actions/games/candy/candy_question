@@ -1,0 +1,14 @@
+TEXT_title
+<*, *, *>: Candy Game!
+----
+IMAGE_default
+<*, *, *>:  img/default_image.png
+----
+TEXT_default
+<*, *, it>: In che mano si trova la caramella?
+<*, *, en>: What hand is the candy in?
+----
+TTS
+<*, *, it>: In che mano si trova la caramella?
+<*, *, en>: What hand is the candy in?
+----

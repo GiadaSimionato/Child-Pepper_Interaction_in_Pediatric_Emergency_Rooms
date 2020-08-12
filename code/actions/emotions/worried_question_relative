@@ -1,0 +1,11 @@
+TEXT_title
+<*, *, *>: Dr. Pepper
+----
+TEXT_default
+<*, *, it>: Che problema ha?
+<*, *, en>: What's wrong with him?
+----
+TTS
+<*, *, it>: Che problema ha?
+<*, *, en>: What's wrong with him?
+----

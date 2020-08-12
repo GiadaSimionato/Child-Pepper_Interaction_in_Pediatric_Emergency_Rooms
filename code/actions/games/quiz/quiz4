@@ -1,0 +1,63 @@
+TEXT_title
+<*, *, *>: Quiz Time!
+----
+IMAGE_default
+<*, *, *>:  img/default_image.png
+----
+TEXT_default
+<s, *, it>: Quante gambe ha un fenicottero?
+<s, *, en>: How many legs does a flamingo have?
+<m, *, it>: Come si chiama il cane di topolino?
+<m, *, en>: What is the name of Mickey Mouse's dog?
+<l, *, it>: ll maestrale é…
+<l, *, en>: The Mistral is ...
+----
+TTS
+<s, *, it>: Quante gambe ha un fenicottero?
+<s, *, en>: How many legs does a flamingo have?
+<m, *, it>: Come si chiama il cane di topolino?
+<m, *, en>: What is the name of Mickey Mouse's dog?
+<l, *, it>: ll maestrale é…
+<l, *, en>: The Mistral is ...
+----
+BUTTONS
+wrong
+<s, *, it>: 4
+<s, *, en>: 4
+<m, *, it>: Paolo
+<m, *, en>: Paul
+<l, *, it>: Un ghiacciaio
+<l, *, en>: A glacier
+wrong
+<s, *, it>: 3
+<s, *, en>: 3
+<m, *, it>: Jack
+<m, *, en>: Jack
+<l, *, it>: Un professore
+<l, *, en>: A professor
+wrong
+<s, *, it>: 6
+<s, *, en>: 6
+<m, *, it>: Toby
+<m, *, en>: Toby
+<l, *, it>: Un mare
+<l, *, en>: A sea
+correct
+<s, *, it>: 2
+<s, *, en>: 2
+<m, *, it>: Pluto
+<m, *, en>: Pluto
+<l, *, it>: Un vento
+<l, *, en>: A wind
+stop
+<*, *, it>: Basta
+<*, *, en>: Stop
+----
+ASR
+<s, *, it>: { 'correct': ['2'], 'wrong': ['4', '3', '6'], 'stop': ['stop', 'basta', 'fermati'] }
+<s, *, en>: { 'correct': ['2'], 'wrong': ['4', '3', '6'], 'stop': ['stop', 'enough'] }
+<m, *, it>: { 'correct': ['Pluto'], 'wrong': ['Paolo', 'Jack', 'Toby'], 'stop': ['stop', 'basta', 'fermati'] }
+<m, *, en>: { 'correct': ['Pluto'], 'wrong': ['Paul', 'Jack', 'Toby'], 'stop': ['stop', 'enough'] }
+<l, *, it>: { 'correct': ['vento'], 'wrong': ['ghiacciaio', 'professore', 'mare'], 'stop': ['stop', 'basta', 'fermati'] }
+<l, *, en>: { 'correct': ['wind'], 'wrong': ['glacier', 'professor', 'sea'], 'stop': ['stop', 'enough'] }
+----

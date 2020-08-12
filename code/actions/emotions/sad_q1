@@ -1,0 +1,15 @@
+TEXT_title
+<*, *, *>: Dr. Pepper
+----
+TEXT_default
+<*, *, it>: Sembri triste, come mai? qualcosa non va?
+<*, *, en>: You seem sad, something wrong?
+----
+TTS
+<*, *, it>: Sembri triste, come mai? qualcosa non va?
+<*, *, en>: You seem sad, something wrong?
+----
+ASR
+<*, *, it>: { 'yes': ['si'], 'no':['no','no, va tutto bene']}
+<*, *, en>: { 'yes': ['yes'], 'no':['no', 'no, its all good']}
+----

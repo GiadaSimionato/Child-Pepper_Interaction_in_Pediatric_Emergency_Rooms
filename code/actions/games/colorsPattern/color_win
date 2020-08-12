@@ -1,0 +1,14 @@
+TEXT_title
+<*, *, *>: Color Pattern!
+----
+IMAGE_default
+<*, *, *>:  img/default_image.png
+----
+TEXT_default
+<*, *, it>: Congratulazioni, hai completato correttamente la sequenza!
+<*, *, en>: Congratulations, you have successfully completed the sequence!
+----
+TTS
+<*, *, it>: Congratulazioni, hai completato correttamente la sequenza!
+<*, *, en>: Congratulations, you have successfully completed the sequence!
+----

@@ -1,0 +1,37 @@
+TEXT_title
+<s,f,it>: Frozen
+<s,f,en>: Frozen
+<l,f,it>: La bella e la bestia
+<l,f,en>: The beauty and the beast
+<*, m, *>: Big Hero 6
+----
+IMAGE_default
+<s, f, *>:  img/stories/frozen/7.png
+<l, f, *>:  img/stories/beautybeast/7.png
+<*, m, *>:  img/stories/bighero6/7.png
+----
+TEXT_default
+<s, f, it>: Furiosa, perse il controllo e cominciò a lanciare ghiaccio dalla sua mano, tutti fissarono Elsa sotto shock, ora Arendelle conosceva il suo segreto. Elsa fu presa dal panico e fuggì per le montagne, i suoi poteri fuori controllo avevano creato una terribile tempesta invernale in piena estate.
+<s, f, en>: Furious she started to lose control and blast ice from her hand, everyone stared at Elsa in shock, now all Arendelle knew her secret. Elsa panicked and fled for the mountains, her out of control powers had created a terrible winter storm in the middle of summer. 
+<l, f, it>: Quando vide il cavallo di suo padre tornare da solo, Belle si mise in cerca di lui e lo trovò intrappolato nel castello. Belle implorò la Bestia di liberarlo, e si offri di prendere il suo posto. La bestia accettò, facendole promettere di rimanere nel castello per sempre!
+<l, f, en>: When her father’s horse came alone, Belle went in search of her father and found him locked up. Belle begged the Beast for Maurice’s freedom. “Take me instead!” she offered. The Beast agreed, making her promise to stay in the castle forever!
+<*, m, it>: Un giorno, girando per la sua stanza, il giovane si fa male, e casualmente, attiva Baymax. Poco dopo il ragazzo, in una felpa sotto il letto, trova un microbot attivo, cosa strana visto che tutti gli altri sono stati distrutti nell’incendio.
+<*, m, en>: One day, walking around his room, the young man gets hurt, and casually activates Baymax. Shortly afterwards the boy, in a sweatshirt under the bed, finds an active microbot, which is strange since all the others were destroyed in the fire.
+----
+TTS
+<s, f, it>: Furiosa, perse il controllo e cominciò a lanciare ghiaccio dalla sua mano, tutti fissarono Elsa sotto shock, ora Arendelle conosceva il suo segreto. Elsa fu presa dal panico e fuggì per le montagne, i suoi poteri fuori controllo avevano creato una terribile tempesta invernale in piena estate.
+<s, f, en>: Furious she started to lose control and blast ice from her hand, everyone stared at Elsa in shock, now all Arendelle knew her secret. Elsa panicked and fled for the mountains, her out of control powers had created a terrible winter storm in the middle of summer. 
+<l, f, it>: Quando vide il cavallo di suo padre tornare da solo, Belle si mise in cerca di lui e lo trovò intrappolato nel castello. Belle implorò la Bestia di liberarlo, e si offri di prendere il suo posto. La bestia accettò, facendole promettere di rimanere nel castello per sempre!
+<l, f, en>: When her father’s horse came alone, Belle went in search of her father and found him locked up. Belle begged the Beast for Maurice’s freedom. “Take me instead!” she offered. The Beast agreed, making her promise to stay in the castle forever!
+<*, m, it>: Un giorno, girando per la sua stanza, il giovane si fa male, e casualmente, attiva Baymax. Poco dopo il ragazzo, in una felpa sotto il letto, trova un microbot attivo, cosa strana visto che tutti gli altri sono stati distrutti nell’incendio.
+<*, m, en>: One day, walking around his room, the young man gets hurt, and casually activates Baymax. Shortly afterwards the boy, in a sweatshirt under the bed, finds an active microbot, which is strange since all the others were destroyed in the fire.
+----
+ASR
+<*, *, it>: { 'stop': ['stop', 'basta', 'fermati'] }
+<*, *, en>:  { 'stop': ['stop', 'enough'] }
+----
+BUTTONS
+stop
+<*, *, it>: Basta
+<*, *, en>: Stop
+----

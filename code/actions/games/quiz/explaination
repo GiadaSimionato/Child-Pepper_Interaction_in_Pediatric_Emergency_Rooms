@@ -1,0 +1,22 @@
+TEXT_title
+<*, *, *>: Quiz Time!
+----
+IMAGE_default
+<*, *, *>:  img/default_image.png
+----
+TEXT_default
+<s, *, it>: E' il momento del Pepper Quiz! Rispondi correttamente alla domanda per vincere!
+<s, *, en>: It's time for the Pepper Quiz! Answer the question correctly to win!
+<m, *, it>: E' il momento del Pepper Quiz! Rispondi correttamente alle due domande per vincere!
+<m, *, en>: It's time for the Pepper Quiz! Answer the two questions correctly to win!
+<l, *, it>: E' il momento del Pepper Quiz! Rispondi correttamente alle tre domande per vincere!
+<l, *, en>: It's time for the Pepper Quiz! Answer the three questions correctly to win!
+----
+TTS
+<s, *, it>: E' il momento del Pepper Quiz! Rispondi correttamente alla domanda per vincere!
+<s, *, en>: It's time for the Pepper Quiz! Answer the question correctly to win!
+<m, *, it>: E' il momento del Pepper Quiz! Rispondi correttamente alle due domande per vincere!
+<m, *, en>: It's time for the Pepper Quiz! Answer the two questions correctly to win!
+<l, *, it>: E' il momento del Pepper Quiz! Rispondi correttamente alle tre domande per vincere!
+<l, *, en>: It's time for the Pepper Quiz! Answer the three questions correctly to win!
+----

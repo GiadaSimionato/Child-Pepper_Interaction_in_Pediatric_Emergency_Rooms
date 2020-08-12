@@ -1,0 +1,11 @@
+TEXT_title
+<*, *, *>: Dr. Pepper
+----
+TEXT_default
+<*, *, it>: Mi dispiace, che ne dici di fare qualcosa per distrarti un po?
+<*, *, en>: I'm sorry, how about doing something to distract you a little?
+----
+TTS
+<*, *, it>: Mi dispiace, che ne dici di fare qualcosa per distrarti un po?
+<*, *, en>: I'm sorry, how about doing something to distract you a little?
+----

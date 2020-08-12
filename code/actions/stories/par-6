@@ -1,0 +1,37 @@
+TEXT_title
+<s,f,it>: Frozen
+<s,f,en>: Frozen
+<l,f,it>: La bella e la bestia
+<l,f,en>: The beauty and the beast
+<*, m, *>: Big Hero 6
+----
+IMAGE_default
+<s, f, *>:  img/stories/frozen/6.png
+<l, f, *>:  img/stories/beautybeast/6.png
+<*, m, *>:  img/stories/bighero6/6.png
+----
+TEXT_default
+<s, f, it>: Alla festa dell'incoronazione, Anna ballò con il bellissimo principe Hans. Hans e Anna capirono che dovevano stare insieme, così si propose, e lei accettò. Anna e Hans chiesero ad Elsa la sua benedizione. Ma Elsa pensava che il loro fidanzamento fosse una cattiva idea. 
+<s, f, en>: At the coronation party, Anna danced with handsome Prince Hans. Hans and Anna knew they were meant to be together, so he proposed, and she accepted. Anna and Hans asked Elsa for her blessing. But Elsa thought their engagement was a bad idea.  
+<l, f, it>: Non avrebbe mai potuto immaginare la bestia orribile che gli si parava davanti. Pensando che Maurice fosse andato fin li per ucciderlo, la bestia lo rinchiuse senza pietà nella prigione del castello.
+<l, f, en>: Maurice could never have imagined the hideous beast that confronted him. Thinking Maurice had come to stare at him, the Beast was furious. Without mercy, he locked this unwanted visitor in the dungeon.
+<*, m, it>: Poco dopo l’istituto va a fuoco e Tadashi, nell’intento di salvare il professor Callaghan muore. Hiro distrutto dalla perdita del fratello, si isola da tutto e da tutti per settimane. 
+<*, m, en>: Shortly afterwards the institute burns down and Tadashi dies in order to save Professor Callaghan. Hiro destroyed by the loss of his brother, he isolates himself from everything for weeks.
+----
+TTS
+<s, f, it>: Alla festa dell'incoronazione, Anna ballò con il bellissimo principe Hans. Hans e Anna capirono che dovevano stare insieme, così si propose, e lei accettò. Anna e Hans chiesero ad Elsa la sua benedizione. Ma Elsa pensava che il loro fidanzamento fosse una cattiva idea. 
+<s, f, en>: At the coronation party, Anna danced with handsome Prince Hans. Hans and Anna knew they were meant to be together, so he proposed, and she accepted. Anna and Hans asked Elsa for her blessing. But Elsa thought their engagement was a bad idea.  
+<l, f, it>: Non avrebbe mai potuto immaginare la bestia orribile che gli si parava davanti. Pensando che Maurice fosse andato fin li per ucciderlo, la bestia lo rinchiuse senza pietà nella prigione del castello.
+<l, f, en>: Maurice could never have imagined the hideous beast that confronted him. Thinking Maurice had come to stare at him, the Beast was furious. Without mercy, he locked this unwanted visitor in the dungeon.
+<*, m, it>: Poco dopo l’istituto va a fuoco e Tadashi, nell’intento di salvare il professor Callaghan muore. Hiro distrutto dalla perdita del fratello, si isola da tutto e da tutti per settimane. 
+<*, m, en>: Shortly afterwards the institute burns down and Tadashi dies in order to save Professor Callaghan. Hiro destroyed by the loss of his brother, he isolates himself from everything for weeks.
+----
+ASR
+<*, *, it>: { 'stop': ['stop', 'basta', 'fermati'] }
+<*, *, en>:  { 'stop': ['stop', 'enough'] }
+----
+BUTTONS
+stop
+<*, *, it>: Basta
+<*, *, en>: Stop
+----

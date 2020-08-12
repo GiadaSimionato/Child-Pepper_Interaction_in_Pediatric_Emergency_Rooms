@@ -1,0 +1,11 @@
+TEXT_title
+<*, *, *>: Dr. Pepper
+----
+TEXT_default
+<*, *, it>: Beh non ho mai avuto questa malattia, ma sono sicuro che si prenderanno cura di lui.
+<*, *, en>: Well I've never had this disease, but I'm sure they will take care of it.
+----
+TTS
+<*, *, it>: Beh non ho mai avuto questa malattia, ma sono sicuro che si prenderanno cura di lui.
+<*, *, en>: Well I've never had this disease, but I'm sure they will take care of it.
+----

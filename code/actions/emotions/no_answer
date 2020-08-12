@@ -1,0 +1,11 @@
+TEXT_title
+<*, *, *>: Dr. Pepper
+----
+TEXT_default
+<*, *, it>: Ok, non hai voglia di parlare, che ne dici di fare qualcosa?
+<*, *, en>: Ok you don't want to talk, how about doing something?
+----
+TTS
+<*, *, it>: Ok, non hai voglia di parlare, che ne dici di fare qualcosa?
+<*, *, en>: Ok you don't want to talk, how about doing something?
+----

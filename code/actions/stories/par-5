@@ -1,0 +1,37 @@
+TEXT_title
+<s,f,it>: Frozen
+<s,f,en>: Frozen
+<l,f,it>: La bella e la bestia
+<l,f,en>: The beauty and the beast
+<*, m, *>: Big Hero 6
+----
+IMAGE_default
+<s, f, *>:  img/stories/frozen/5.png
+<l, f, *>:  img/stories/beautybeast/5.png
+<*, m, *>:  img/stories/bighero6/5.png
+----
+TEXT_default
+<s, f, it>: Persino dopo che i loro genitori furono dispersi in una tempesta in mare, le sorelle non trascorsero del tempo insieme. Anni dopo, giunse il momento per Elsa di diventare regina di Arendelle. Per quell’occasione le porte della città vennero aperte, e centinaia di persone hanno parteciparono alla cerimonia di incoronazione. 
+<s, f, en>: Even after their parents were lost in a storm at sea, the sisters didn’t spend any time together. Years later, it was time for Elsa to become the queen of Arendelle. For just that day, the castle gates were open, hundreds of people attended the coronation ceremony.
+<l, f, it>: Durante il tragitto, Maurice si perse nel bosco. Un branco di lupi lo insegui fino ai cancelli di un castello abbandonato. Non sicuro di cosa avrebbe trovato all’interno, Maurice entrò nel castello cautamente.
+<l, f, en>: On his way to the fair, Maurice got lost in the woods. A pack of wolves chased him into a gate of a nearby castle. Not sure what he would find inside, Maurice entered the castle grounds cautiously.
+<*, m, it>: Si fa avanti l’imprenditore Alistair Krei, che assistendo alla presentazione, propone ad Hiro di vendergli i microbot. Il ragazzo rifiuta e viene ammesso tra gli studenti
+<*, m, en>: Entrepreneur Alistair Krei comes forward and, attending the presentation, proposes to Hiro to sell him the microbots. The boy refuses and is admitted among the students.
+----
+TTS
+<s, f, it>: Persino dopo che i loro genitori furono dispersi in una tempesta in mare, le sorelle non trascorsero del tempo insieme. Anni dopo, giunse il momento per Elsa di diventare regina di Arendelle. Per quell’occasione le porte della città vennero aperte, e centinaia di persone hanno parteciparono alla cerimonia di incoronazione. 
+<s, f, en>: Even after their parents were lost in a storm at sea, the sisters didn’t spend any time together. Years later, it was time for Elsa to become the queen of Arendelle. For just that day, the castle gates were open, hundreds of people attended the coronation ceremony.
+<l, f, it>: Durante il tragitto, Maurice si perse nel bosco. Un branco di lupi lo insegui fino ai cancelli di un castello abbandonato. Non sicuro di cosa avrebbe trovato all’interno, Maurice entrò nel castello cautamente.
+<l, f, en>: On his way to the fair, Maurice got lost in the woods. A pack of wolves chased him into a gate of a nearby castle. Not sure what he would find inside, Maurice entered the castle grounds cautiously.
+<*, m, it>: Si fa avanti l’imprenditore Alistair Krei, che assistendo alla presentazione, propone ad Hiro di vendergli i microbot. Il ragazzo rifiuta e viene ammesso tra gli studenti
+<*, m, en>: Entrepreneur Alistair Krei comes forward and, attending the presentation, proposes to Hiro to sell him the microbots. The boy refuses and is admitted among the students.
+----
+ASR
+<*, *, it>: { 'stop': ['stop', 'basta', 'fermati'] }
+<*, *, en>:  { 'stop': ['stop', 'enough'] }
+----
+BUTTONS
+stop
+<*, *, it>: Basta
+<*, *, en>: Stop
+----

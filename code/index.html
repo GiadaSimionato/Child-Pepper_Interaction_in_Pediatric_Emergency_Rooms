@@ -1,0 +1,142 @@
+<html>
+
+<head>
+  <title>Dr. Pepper</title>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Chau+Philomene+One&family=Roboto&display=swap');
+
+    /* HTML Elements */
+    body {
+      background-color: #000033;
+      font-family: 'Roboto', sans-serif;
+      color: #00A6FB;
+    }
+
+    h1 {
+      font-weight: bold;
+      font-size: 300%;
+    }
+
+    h2 {
+      font-weight: normal;
+      font-size: 200%;
+    }
+
+    img {
+      border: 10px solid #00A6FB;
+      padding: 10px;
+      border-radius: 15px;
+    }
+
+    input[type=button] {      
+      background-color: #1E1E3D;
+      /* Red */
+      border: 5px solid #00A6FB;
+      border-radius: 8px;
+      color: #00A6FB;
+      padding: 14px 24px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 24px;
+      margin: 10px 10px 10px 10px;
+    }
+
+    input[type=button]:hover{
+      background-color: #000033;
+      color: #00A6FB;
+      border: 5px solid #00A6FB;
+    }
+
+    /* MODIM DEFAULT elements */
+    #text_title {
+      font-size: 60px;
+      font-family: 'Delius', cursive;
+    }
+
+    #image_default{
+      height: 30vh;
+      width: 62.5vw;
+    }
+
+    #text_default{
+      padding: 0px 10vw;
+    }
+
+    /* MODIM INPUTS elements */
+    #games {
+      height: 180;
+      width: 180;
+      background: url(img/menu/game.png);
+      background-size: contain;
+      font-family: 'Roboto', sans-serif;
+      color:#ffffff;
+    }
+
+    #stories {
+      height: 180;
+      width: 180;
+      background: url(img/menu/story.png);
+      background-size: contain;
+      font-family: 'Roboto', sans-serif;
+      color:#ffffff;
+    }
+
+
+    #videos {
+      height: 180;
+      width: 180;
+      background: url(img/menu/video.png);
+      background-size: contain;
+      font-family: 'Roboto', sans-serif;
+      color:#ffffff;
+    }
+
+    #home {
+      height: 180;
+      width: 180;
+      background: url(img/menu/home.png);
+      background-size: contain;
+      font-family: 'Roboto', sans-serif;
+      color:#ffffff;
+    }
+  </style>
+
+  <script src="qaws.js"></script>
+
+</head>
+
+<body>
+
+  <!-- status -->
+  <div align='right' id='status'>
+    <font color='red'>NOT CONNECTED</font>
+  </div>
+
+  <h1 align=center>
+    <div align='center' id='text_title'>Dr. Pepper</div>
+  </h1>
+
+  <div align='center'>
+    <img height=300 id='image_default' src="img/default_image.png" alt="No image" />
+  </div>
+
+  <h2>
+    <div align='center' id='text_default'>Default text.</div>
+  </h2>
+
+  <div align='center' id='buttons'>
+  </div>
+
+  <script>
+    var ip = window.location.hostname;
+    if (ip == '')
+      ip = '127.0.0.1';
+    var port = 9100;
+    wsrobot_init(ip, port);
+  </script>
+
+</body>
+
+</html>

@@ -1,0 +1,13 @@
+TEXT_title
+<*, *, *>: Dr. Pepper
+----
+TEXT_default
+<*, m, it>: Sembri preoccupato, Di cosa hai paura?
+<*, f, it>: Sembri preoccupata, Di cosa hai paura?
+<*, *, en>: You seem worried, What are you afraid of?
+----
+TTS
+<*, m, it>: Sembri preoccupato, Di cosa hai paura?
+<*, f, it>: Sembri preoccupata, Di cosa hai paura?
+<*, *, en>: You seem worried, What are you afraid of?
+----

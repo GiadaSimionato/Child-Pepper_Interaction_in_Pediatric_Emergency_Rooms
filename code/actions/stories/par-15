@@ -1,0 +1,37 @@
+TEXT_title
+<s,f,it>: Frozen
+<s,f,en>: Frozen
+<l,f,it>: La bella e la bestia
+<l,f,en>: The beauty and the beast
+<*, m, *>: Big Hero 6
+----
+IMAGE_default
+<s, f, *>:  img/stories/frozen/15.png
+<l, f, *>:  img/stories/beautybeast/15.png
+<*, m, *>:  img/stories/bighero6/15.png
+----
+TEXT_default
+<s, f, it>: Fortunatamente, Olaf la trovò e l’aiutò a riscaldarsi accanto al fuoco. Ma Anna stava diventando sempre più debole. Olaf guardò fuori dalla finestra e vide Kristoff correre verso il castello. Si rese conto che amava Anna e che era lui che Anna doveva baciare. Con le poche forze che le rimasero, si trascinò fuori.
+<s, f, en>: Luckily, Olaf found her and helped her warmup by the fire. But Anna was still getting weaker and weaker. Olaf glanced out the window and saw Kristoff racing toward the castle. He realized that he loves Anna. It was Kristoff that Anna needed to kiss. With the left of her strength, she struggled outside.
+<l, f, it>: Belle portò la bestia morente al sicuro e le dichiarò il suo amore.
+<l, f, en>: Belle pulled the Beast to safety. “Please don’t leave me”, she sobbed. “I love you”
+<*, m, it>: Poco dopo infatti, il professore attiva il portale, cercando di far demolire l’azienda di Krei. Il piano di Hiro è quello di smantellare gruppi di microbot, lasciando cadere i singoli robot nel portale. In questo modo Callagan perde potere e Baymax può distruggergli la maschera.
+<*, m, en>: Shortly afterwards, in fact, the professor activates the portal, trying to have the Krei company demolished. Hiro's plan is to dismantle groups of microbots, dropping individual robots into the portal. In this way Callagan loses power and Baymax can destroy his mask.
+----
+TTS
+<s, f, it>: Fortunatamente, Olaf la trovò e l’aiutò a riscaldarsi accanto al fuoco. Ma Anna stava diventando sempre più debole. Olaf guardò fuori dalla finestra e vide Kristoff correre verso il castello. Si rese conto che amava Anna e che era lui che Anna doveva baciare. Con le poche forze che le rimasero, si trascinò fuori. 
+<s, f, en>: Luckily, Olaf found her and helped her warmup by the fire. But Anna was still getting weaker and weaker. Olaf glanced out the window and saw Kristoff racing toward the castle. He realized that he loves Anna. It was Kristoff that Anna needed to kiss. With the left of her strength, she struggled outside.
+<l, f, it>: Belle portò la bestia morente al sicuro e le dichiarò il suo amore.
+<l, f, en>: Belle pulled the Beast to safety. “Please don’t leave me”, she sobbed. “I love you”
+<*, m, it>: Poco dopo infatti, il professore attiva il portale, cercando di far demolire l’azienda di Krei. Il piano di Hiro è quello di smantellare gruppi di microbot, lasciando cadere i singoli robot nel portale. In questo modo Callagan perde potere e Baymax può distruggergli la maschera.
+<*, m, en>: Shortly afterwards, in fact, the professor activates the portal, trying to have the Krei company demolished. Hiro's plan is to dismantle groups of microbots, dropping individual robots into the portal. In this way Callagan loses power and Baymax can destroy his mask.
+----
+ASR
+<*, *, it>: { 'stop': ['stop', 'basta', 'fermati'] }
+<*, *, en>:  { 'stop': ['stop', 'enough'] }
+----
+BUTTONS
+stop
+<*, *, it>: Basta
+<*, *, en>: Stop
+----

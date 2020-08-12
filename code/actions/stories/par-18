@@ -1,0 +1,37 @@
+TEXT_title
+<s,f,it>: Frozen
+<s,f,en>: Frozen
+<l,f,it>: La bella e la bestia
+<l,f,en>: The beauty and the beast
+<*, m, *>: Big Hero 6
+----
+IMAGE_default
+<s, f, *>:  img/stories/frozen/18.png
+<l, f, *>:  img/stories/beautybeast/18.png
+<*, m, *>:  img/stories/bighero6/18.png
+----
+TEXT_default
+<s, f, it>: All'improvviso, Anna cominciò a scongelarsi, le due sorelle si abbracciarono. L'amore di Anna per sua sorella aveva salvato entrambe e il regno. Presto le due sorelle furono di nuovo migliori amiche e l'estate era tornata ad Arendelle.
+<s, f, en>: Suddenly, Anna began to thaw, the two sisters hugged. Anna’s love for her sister had saved both and the kingdom. Soon the two sisters were best friends again, and the summer had returned to Arendelle.
+<l, f, it>: Anche gli oggetti incantati si trasformarono di nuovo in umani, e guardarono il loro principe e belle innamorarsi di nuovo.
+<l, f, en>: The enchanted objects were filled with joy as they too turned back into humans. And watched their prince and Bell fall in love anew.
+<*, m, it>: Il giovane, riesce così a ricostruirlo, e si riunisce ai suoi amici e compagni di lotta. Nascono così, i Big Hiro 6. 
+<*, m, en>: The young man thus succeeds in reconstructing it and reunites with his friends and comrades in struggle. Thus, were born the Big Hiro 6.
+----
+TTS
+<s, f, it>: All'improvviso, Anna cominciò a scongelarsi, le due sorelle si abbracciarono. L'amore di Anna per sua sorella aveva salvato entrambe e il regno. Presto le due sorelle furono di nuovo migliori amiche e l'estate era tornata ad Arendelle.
+<s, f, en>: Suddenly, Anna began to thaw, the two sisters hugged. Anna’s love for her sister had saved both and the kingdom. Soon the two sisters were best friends again, and the summer had returned to Arendelle.
+<l, f, it>: Anche gli oggetti incantati si trasformarono di nuovo in umani, e guardarono il loro principe e belle innamorarsi di nuovo.
+<l, f, en>: The enchanted objects were filled with joy as they too turned back into humans. And watched their prince and Bell fall in love anew.
+<*, m, it>: Il giovane, riesce così a ricostruirlo, e si riunisce ai suoi amici e compagni di lotta. Nascono così, i Big Hiro 6. 
+<*, m, en>: The young man thus succeeds in reconstructing it and reunites with his friends and comrades in struggle. Thus, were born the Big Hiro 6.
+----
+ASR
+<*, *, it>: { 'stop': ['stop', 'basta', 'fermati'] }
+<*, *, en>:  { 'stop': ['stop', 'enough'] }
+----
+BUTTONS
+stop
+<*, *, it>: Basta
+<*, *, en>: Stop
+----

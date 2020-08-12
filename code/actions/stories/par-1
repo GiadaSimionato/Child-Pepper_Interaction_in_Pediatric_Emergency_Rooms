@@ -1,0 +1,37 @@
+TEXT_title
+<s,f,it>: Frozen
+<s,f,en>: Frozen
+<l,f,it>: La bella e la bestia
+<l,f,en>: The beauty and the beast
+<*, m, *>: Big Hero 6
+----
+IMAGE_default
+<s, f, *>:  img/stories/frozen/1.png
+<l, f, *>:  img/stories/beautybeast/1.png
+<*, m, *>:  img/stories/bighero6/1.png
+----
+TEXT_default
+<s, f, it>: C'era una volta una principessa di nome Elsa. Questa piccola principessa aveva un segreto che solo i suoi genitori e sua sorella Anna conoscevano. Elsa aveva il potere di fare neve e ghiaccio solo con le sue mani.
+<s, f, en>: Once upon a time, there was a princess named Elsa. This little princess had a secret that only her parents and her sister Anna knew. Elsa had the power to make snow and ice with just her hands.
+<l, f, it>: C’era una volta, un’incantatrice che trasformò un principe in una terribile bestia, dopo che essa scopri il suo profondo egoismo. Ella lasciò una rosa incantata. Se il principe non avesse trovato il vero amore prima che l’ultimo petalo cadesse, sarebbe rimasto una bestia per sempre.
+<l, f, en>: Once upon a time, an Enchantress turned a handsome prince into a terrible beast when she discovered his selfishness. She left behind and enchanted rose. If the prince did not find a true love before the last rose petal fell, he would remain a beast forever.
+<*, m, it>: Un giovane di 14 anni, Hiro Hamada, vive nella super tecnologica San Fransokyo, una notte partecipa ad un incontro clandestino di bot duelli, e vince una grossa somma di denaro. 
+<*, m, en>: A 14-year-old young man, Hiro Hamada, lives in the super technological San Fransokyo, one night attends a clandestine match of dueling bots, and wins a large sum of money.
+----
+TTS
+<s, f, it>: C'era una volta una principessa di nome Elsa. Questa piccola principessa aveva un segreto che solo i suoi genitori e sua sorella Anna conoscevano. Elsa aveva il potere di fare neve e ghiaccio solo con le sue mani.
+<s, f, en>: Once upon a time, there was a princess named Elsa. This little princess had a secret that only her parents and her sister Anna knew. Elsa had the power to make snow and ice with just her hands.
+<l, f, it>: C’era una volta, un’incantatrice che trasformò un principe in una terribile bestia, dopo che essa scopri il suo profondo egoismo. Ella lasciò una rosa incantata. Se il principe non avesse trovato il vero amore prima che l’ultimo petalo cadesse, sarebbe rimasto una bestia per sempre.
+<l, f, en>: Once upon a time, an Enchantress turned a handsome prince into a terrible beast when she discovered his selfishness. She left behind and enchanted rose. If the prince did not find a true love before the last rose petal fell, he would remain a beast forever.
+<*, m, it>: Un giovane di 14 anni, Hiro Hamada, vive nella super tecnologica San Fransokyo, una notte partecipa ad un incontro clandestino di bot duelli, e vince una grossa somma di denaro. 
+<*, m, en>: A 14-year-old young man, Hiro Hamada, lives in the super technological San Fransokyo, one night attends a clandestine match of dueling bots, and wins a large sum of money.
+----
+ASR
+<*, *, it>: { 'stop': ['stop', 'basta', 'fermati'] }
+<*, *, en>:  { 'stop': ['stop', 'enough'] }
+----
+BUTTONS
+stop
+<*, *, it>: Basta
+<*, *, en>: Stop
+----

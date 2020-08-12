@@ -1,0 +1,37 @@
+TEXT_title
+<s,f,it>: Frozen
+<s,f,en>: Frozen
+<l,f,it>: La bella e la bestia
+<l,f,en>: The beauty and the beast
+<*, m, *>: Big Hero 6
+----
+IMAGE_default
+<s, f, *>:  img/stories/frozen/2.png
+<l, f, *>:  img/stories/beautybeast/2.png
+<*, m, *>:  img/stories/bighero6/2.png
+----
+TEXT_default
+<s, f, it>: Una notte Anna ed Elsa stavano giocando insieme, costruendo un pupazzo di neve e pattinando su ghiaccio ma improvvisamente Elsa perse il controllo e colpì accidentalmente la testa di Anna con la sua magia.
+<s, f, en>: One-night Anna and Elsa were playing together, building a snowman and ice skating but suddenly Elsa lost control and accidentally hit Anna’s head with her magic.
+<l, f, it>: In un villaggio vicino, viveva Belle con suo padre. Belle desiderava piu di ogni altra cosa un’avventura come quelle che leggeva nei suoi amati libri. Gaston chiese a Belle di sposarlo, ma ella rifiutò.
+<l, f, en>: In a village nearby, Belle lived with her father. More than anything, Belle wanted an adventure like those she read about in her beloved books. Gaston wanted to marry Belle, but she refused.
+<*, m, it>: Yama, il campione locale, insieme ad altri giocatori, decidono di impartirgli una lezione, Hiro fugge e viene salvato per un pelo dal fratello Tadashi.
+<*, m, en>: Yama, the local champion, together with other players, decide to teach him a lesson, Hiro escapes and is saved by a hair by his brother Tadashi.
+----
+TTS
+<s, f, it>: Una notte Anna ed Elsa stavano giocando insieme, costruendo un pupazzo di neve e pattinando su ghiaccio ma improvvisamente Elsa perse il controllo e colpì accidentalmente la testa di Anna con la sua magia.
+<s, f, en>: One-night Anna and Elsa were playing together, building a snowman and ice skating but suddenly Elsa lost control and accidentally hit Anna’s head with her magic.
+<l, f, it>: In un villaggio vicino, viveva Belle con suo padre. Belle desiderava piu di ogni altra cosa un’avventura come quelle che leggeva nei suoi amati libri. Gaston chiese a Belle di sposarlo, ma ella rifiutò.
+<l, f, en>: In a village nearby, Belle lived with her father. More than anything, Belle wanted an adventure like those she read about in her beloved books. Gaston wanted to marry Belle, but she refused.
+<*, m, it>: Yama, il campione locale, insieme ad altri giocatori, decidono di impartirgli una lezione, Hiro fugge e viene salvato per un pelo dal fratello Tadashi.
+<*, m, en>: Yama, the local champion, together with other players, decide to teach him a lesson, Hiro escapes and is saved by a hair by his brother Tadashi.
+----
+ASR
+<*, *, it>: { 'stop': ['stop', 'basta', 'fermati'] }
+<*, *, en>:  { 'stop': ['stop', 'enough'] }
+----
+BUTTONS
+stop
+<*, *, it>: Basta
+<*, *, en>: Stop
+----

@@ -1,0 +1,11 @@
+TEXT_title
+<*, *, *>: Dr. Pepper
+----
+TEXT_default
+<*, *, it>: Ti stai annoiando? Che ne dici di fare qualche qualcosa allora?
+<*, *, en>: Are you getting bored? How about doing something then?
+----
+TTS
+<*, *, it>: Ti stai annoiando? Che ne dici di fare qualche qualcosa allora?
+<*, *, en>: Are you getting bored? How about doing something then?
+----

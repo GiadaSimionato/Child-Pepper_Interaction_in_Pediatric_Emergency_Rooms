@@ -1,0 +1,37 @@
+TEXT_title
+<s,f,it>: Frozen
+<s,f,en>: Frozen
+<l,f,it>: La bella e la bestia
+<l,f,en>: The beauty and the beast
+<*, m, *>: Big Hero 6
+----
+IMAGE_default
+<s, f, *>:  img/stories/frozen/16.png
+<l, f, *>:  img/stories/beautybeast/16.png
+<*, m, *>:  img/stories/bighero6/16.png
+----
+TEXT_default
+<s, f, it>: Nel frattempo, Elsa era riuscita a fuggire dalla prigione. Hans le raccontò del colpo nel cuore di Anna. Li vicino Anna si stava dirigendo verso Kristoff quando sentì Hans estrarre la spada. Si voltò e vide sua sorella in pericolo.
+<s, f, en>: Meanwhile, Elsa had escaped from the dungeon, but Hans was close behind her. Hans told Elsa about her magic blast to Anna’s heart. Nearby Anna was hurrying toward Kristoff when she heard the clang of Hans’s sword. She turned and saw her sister in danger.
+<l, f, it>: Non appena dichiarò il suo amore, l’ultimo petalo cadde.
+<l, f, en>: As she spoke, the last rose petal fell. 
+<*, m, it>: Baymax rileva nel portale una presenza, è la pilota che si trova in ipersonno dal giorno dell’incidente. Il giovane e il robot entrano per salvarla, la trovano, ma Baymax a causa di un colpo subito, non riesce a tornare indietro, e grazie alla spinta fornita da un pugno propulsore spinge fuori dal portale Hiro e la ragazza. 
+<*, m, en>: Baymax detects a presence in the portal, it is the pilot who has been in hyperson sleep since the day of the accident. The young man and the robot enter to save her, they find her, but Baymax, due to a blow immediately, cannot go back, and thanks to the thrust provided by a power punch pushes Hiro and the girl out of the portal.
+----
+TTS
+<s, f, it>: Nel frattempo, Elsa era riuscita a fuggire dalla prigione. Hans le raccontò del colpo nel cuore di Anna. Li vicino Anna si stava dirigendo verso Kristoff quando sentì Hans estrarre la spada. Si voltò e vide sua sorella in pericolo.
+<s, f, en>: Meanwhile, Elsa had escaped from the dungeon, but Hans was close behind her. Hans told Elsa about her magic blast to Anna’s heart. Nearby Anna was hurrying toward Kristoff when she heard the clang of Hans’s sword. She turned and saw her sister in danger.
+<l, f, it>: Non appena dichiarò il suo amore, l’ultimo petalo cadde.
+<l, f, en>: As she spoke, the last rose petal fell. 
+<*, m, it>: Baymax rileva nel portale una presenza, è la pilota che si trova in ipersonno dal giorno dell’incidente. Il giovane e il robot entrano per salvarla, la trovano, ma Baymax a causa di un colpo subito, non riesce a tornare indietro, e grazie alla spinta fornita da un pugno propulsore spinge fuori dal portale Hiro e la ragazza. 
+<*, m, en>: Baymax detects a presence in the portal, it is the pilot who has been in hyperson sleep since the day of the accident. The young man and the robot enter to save her, they find her, but Baymax, due to a blow immediately, cannot go back, and thanks to the thrust provided by a power punch pushes Hiro and the girl out of the portal.
+----
+ASR
+<*, *, it>: { 'stop': ['stop', 'basta', 'fermati'] }
+<*, *, en>:  { 'stop': ['stop', 'enough'] }
+----
+BUTTONS
+stop
+<*, *, it>: Basta
+<*, *, en>: Stop
+----

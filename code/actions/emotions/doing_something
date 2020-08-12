@@ -1,0 +1,11 @@
+TEXT_title
+<*, *, *>: Dr. Pepper
+----
+TEXT_default
+<*, *, it>: Che ne dici di fare qualcosa?
+<*, *, en>: How about doing something?
+----
+TTS
+<*, *, it>: Che ne dici di fare qualcosa?
+<*, *, en>: How about doing something?
+----

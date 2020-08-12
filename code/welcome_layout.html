@@ -1,0 +1,163 @@
+<html>
+
+<head>
+  <title>Dr. Pepper</title>
+
+  <!-- Style -->
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Chau+Philomene+One&family=Roboto&display=swap');
+
+    /* HTML Elements */
+    body {
+      background-color: #000033;
+      font-family: 'Roboto', sans-serif;
+      color: #00A6FB;
+    }
+
+    h1 {
+      font-weight: bold;
+      font-size: 300%;
+    }
+
+    h2 {
+      font-weight: normal;
+      font-size: 200%;
+    }
+
+    img {
+      border: 10px solid #00A6FB;
+      padding: 10px;
+      border-radius: 15px;
+    }
+
+    input[type=button] {      
+      background-color: #1E1E3D;
+      padding: 10px;
+      border: 5px solid #00A6FB;
+      border-radius: 8px;
+      color: #00A6FB;
+      padding: 14px 24px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 24px;
+      margin: 10px 10px 10px 10px;
+    }
+
+    input[type=button]:hover{
+      background-color: #000033;
+      color: #00A6FB;
+      border: 5px solid #00A6FB;
+    }
+
+    /* MODIM DEFAULT elements */
+    #text_title {
+      font-size: 72px;
+      font-family: 'Delius', cursive;
+    }
+
+    #image_default{
+      height: 500;
+      width: 1200;
+    }
+
+    #text_default{
+      padding: 0px 10vw;
+    }
+
+    /* MODIM INPUTS elements */
+    #de {
+      height: 20%; 
+      width: 20%;
+      background: url(img/language/de.jpg);
+      background-size: cover;
+      background-position: center center; 
+      position: absolute;
+      left: 10%;
+      top: 25%;
+    }
+
+    #en {
+      height: 20%;
+      width: 20%;
+      background: url(img/language/en.jpg);
+      background-size: cover;
+      background-position: center center; 
+      position: absolute;
+      left: 40%;
+      top: 25%;
+    }
+
+    #es {
+      height: 20%;
+      width: 20%;
+      background: url(img/language/es.jpg);
+      background-size: cover;
+      background-position: center center; 
+      position: absolute;
+      left: 70%;
+      top: 25%;
+    }
+
+    #fr {
+      height: 20%;
+      width: 20%;
+      background: url(img/language/fr.jpg);
+      background-size: cover;
+      background-position: center center; 
+      position: absolute;
+      left: 25%;
+      top: 60%;
+    }
+
+    #it {
+      height: 20%;
+      width: 20%;
+      background: url(img/language/it.jpg);
+      background-size: cover;
+      background-position: center center; 
+      position: absolute;
+      left: 55%;
+      top: 60%;
+    }
+
+  </style>
+
+  <script src="qaws.js"></script>
+
+</head>
+
+<body>
+
+<!-- status -->
+<div align='right' id='status'>
+  <font color='red'>NOT CONNECTED</font>
+</div>
+
+<h1 align=center>
+  <div align='center' id='text_title'>Welcome Title</div>
+</h1>
+
+
+<h2>
+  <div align='center' id='text_default'>Welcome text</div>
+</h2>
+<br>
+
+<div align='center' id='buttons'>
+
+</div>
+
+<!-- Connection -->
+<script>
+    var ip=window.location.hostname;
+    if (ip=='')
+        ip='127.0.0.1';
+    var port = 9100;
+    wsrobot_init(ip,port);
+</script>
+
+</body>
+
+</html>
+

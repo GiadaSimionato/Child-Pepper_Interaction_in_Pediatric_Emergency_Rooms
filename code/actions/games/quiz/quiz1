@@ -1,0 +1,63 @@
+TEXT_title
+<*, *, *>: Quiz Time!
+----
+IMAGE_default
+<*, *, *>:  img/default_image.png
+----
+TEXT_default
+<s, *, it>: Qual é il primo mese dell’anno?
+<s, *, en>: What is the first month of the year?
+<m, *, it>: Cos’è la luna?
+<m, *, en>: What is the moon?
+<l, *, it>: In quale parte del corpo si trova la “rotula”?
+<l, *, en>: In which part of the body is the "patella" located?
+----
+TTS
+<s, *, it>: Qual é il primo mese dell’anno?
+<s, *, en>: What is the first month of the year?
+<m, *, it>: Cos’è la luna?
+<m, *, en>: What is the moon?
+<l, *, it>: In quale parte del corpo si trova la “rotula”?
+<l, *, en>: In which part of the body is the "patella" located?
+----
+BUTTONS
+wrong
+<s, *, it>: Dicembre
+<s, *, en>: December
+<m, *, it>: Pianeta
+<m, *, en>: Planet
+<l, *, it>: Gomito
+<l, *, en>: Elbow
+correct
+<s, *, it>: Gennaio
+<s, *, en>: January
+<m, *, it>: Satellite naturale
+<m, *, en>: Natural Satellite
+<l, *, it>: Ginocchio
+<l, *, en>: Knee
+wrong
+<s, *, it>: Settembre
+<s, *, en>: September
+<m, *, it>: Stella
+<m, *, en>: Star
+<l, *, it>: Viso
+<l, *, en>: Face
+wrong
+<s, *, it>: Novembre
+<s, *, en>: November
+<m, *, it>: Meteorite
+<m, *, en>: Meteorite
+<l, *, it>: Caviglia
+<l, *, en>: Ankle
+stop
+<*, *, it>: Basta
+<*, *, en>: Stop
+----
+ASR
+<s, *, it>: { 'correct': ['Gennaio'], 'wrong': ['Dicembre', 'Settembre', 'Novembre'], 'stop': ['stop', 'basta', 'fermati'] }
+<s, *, en>: { 'correct': ['January'], 'wrong': ['December', 'September', 'November'], 'stop': ['stop', 'enough'] } 
+<m, *, it>: { 'correct': ['Satellite naturale'], 'wrong': ['Pianeta', 'Stella', 'Meteorite'], 'stop': ['stop', 'basta', 'fermati'] } 
+<m, *, en>: { 'correct': ['Natural Satellite'], 'wrong': ['Planet', 'Star', 'Meteorite'], 'stop': ['stop', 'enough'] }
+<l, *, it>: { 'correct': ['Ginocchio'], 'wrong': ['Gomito', 'Viso', 'Caviglia'], 'stop': ['stop', 'basta', 'fermati'] }
+<l, *, en>: { 'correct': ['Knee'], 'wrong': ['Elbow', 'Face', 'Ankle'], 'stop': ['stop', 'enough'] }
+----

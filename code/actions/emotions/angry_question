@@ -1,0 +1,13 @@
+TEXT_title
+<*, *, *>: Dr. Pepper
+----
+TEXT_default
+<*, m, it>: Sembri arrabiato, cosa succede?
+<*, f, it>: Sembri arrabiata, cosa succede?
+<*, *, en>: You seem angry, what's going on?
+----
+TTS
+<*, m, it>: Sembri arrabiato, cosa succede?
+<*, f, it>: Sembri arrabiata, cosa succede?
+<*, *, en>: You seem angry, what's going on?
+----

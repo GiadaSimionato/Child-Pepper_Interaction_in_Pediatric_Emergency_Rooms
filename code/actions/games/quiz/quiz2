@@ -1,0 +1,63 @@
+TEXT_title
+<*, *, *>: Quiz Time!
+----
+IMAGE_default
+<*, *, *>:  img/default_image.png
+----
+TEXT_default
+<s, *, it>: Che frutto mangiano le scimmie?
+<s, *, en>: What fruit do monkeys eat?
+<m, *, it>: Qual è in ordine alfabetico il primo mese dell'anno?
+<m, *, en>: What is the first month of the year in alphabetical order?
+<l, *, it>: Che lingua si parla in inghilterra?
+<l, *, en>: What language is spoken in England?
+----
+TTS
+<s, *, it>: Che frutto mangiano le scimmie
+<s, *, en>: What fruit do monkeys eat?
+<m, *, it>: Qual è in ordine alfabetico il primo mese dell'anno?
+<m, *, en>: What is the first month of the year in alphabetical order?
+<l, *, it>: Che lingua si parla in inghilterra?
+<l, *, en>: What language is spoken in England?
+----
+BUTTONS
+correct
+<s, *, it>: Banane
+<s, *, en>: Bananas
+<m, *, it>: Agosto
+<m, *, en>: August
+<l, *, it>: Inglese
+<l, *, en>: English
+wrong
+<s, *, it>: Ciliegie
+<s, *, en>: Cherries
+<m, *, it>: Marzo
+<m, *, en>: March
+<l, *, it>: Francese
+<l, *, en>: French
+wrong
+<s, *, it>: Arance
+<s, *, en>: Oranges
+<m, *, it>: Gennaio
+<m, *, en>: January
+<l, *, it>: Finlandese
+<l, *, en>: Finnish
+wrong
+<s, *, it>: Lamponi
+<s, *, en>: raspberries
+<m, *, it>: Aprile
+<m, *, en>: April
+<l, *, it>: Tedesco
+<l, *, en>: German
+stop
+<*, *, it>: Basta
+<*, *, en>: Stop
+----
+ASR
+<s, *, it>: { 'correct': ['Banane', 'Banana'], 'wrong': ['Ciliegie', 'Arance', 'Lamponi'], 'stop': ['stop', 'basta', 'fermati'] }
+<s, *, en>: { 'correct': ['Bananas'], 'wrong': ['Cherries', 'Oranges', 'raspberries'], 'stop': ['stop', 'enough'] }
+<m, *, it>: { 'correct': ['Agosto'], 'wrong': ['Marzo', 'Gennaio', 'Aprile'], 'stop': ['stop', 'basta', 'fermati'] }
+<m, *, en>: { 'correct': ['August'], 'wrong': ['March', 'January', 'April'], 'stop': ['stop', 'enough'] }
+<l, *, it>: { 'correct': ['Inglese'], 'wrong': ['Francese', 'Finlandese', 'Tedesco'], 'stop': ['stop', 'basta', 'fermati'] }
+<l, *, en>: { 'correct': ['English'], 'wrong': ['French', 'Finnish', 'German'], 'stop': ['stop', 'enough'] }
+----

@@ -1,0 +1,14 @@
+TEXT_title
+<*, *, *>: Candy Game!
+----
+IMAGE_default
+<*, *, *>:  img/default_image.png
+----
+TEXT_default
+<*, *, it>: Oh no, hai sbagliato!
+<*, *, en>: Oh no, you were wrong!
+----
+TTS
+<*, *, it>: Oh no, hai sbagliato!
+<*, *, en>: Oh no, you were wrong!
+----

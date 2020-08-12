@@ -1,0 +1,22 @@
+TEXT_title
+<*, *, *>: Color Pattern!
+----
+IMAGE_default
+<*, *, *>:  img/default_image.png
+----
+TEXT_default
+<s, *, it>: Guarda i miei occhi, adesso ti mostrerò una sequenza di tre colori, inseriscili nel tablet nello stesso ordine.
+<s, *, en>: Look at my eyes, now I will show you a sequence of three colors, insert them in the tablet in the same order.
+<m, *, it>: Guarda i miei occhi, adesso ti mostrerò una sequenza di quattro colori, inseriscili nel tablet nello stesso ordine.
+<m, *, en>: Look at my eyes, now I will show you a sequence of four colors, insert them in the tablet in the same order.
+<l, *, it>: Guarda i miei occhi, adesso ti mostrerò una sequenza di cinque colori, inseriscili nel tablet nello stesso ordine.
+<l, *, en>: Look at my eyes, now I will show you a sequence of five colors, insert them in the tablet in the same order.
+----
+TTS
+<s, *, it>: Guarda i miei occhi, adesso ti mostrerò una sequenza di tre colori, inseriscili nel tablet nello stesso ordine.
+<s, *, en>: Look at my eyes, now I will show you a sequence of three colors, insert them in the tablet in the same order.
+<m, *, it>: Guarda i miei occhi, adesso ti mostrerò una sequenza di quattro colori, inseriscili nel tablet nello stesso ordine.
+<m, *, en>: Look at my eyes, now I will show you a sequence of four colors, insert them in the tablet in the same order.
+<l, *, it>: Guarda i miei occhi, adesso ti mostrerò una sequenza di cinque colori, inseriscili nel tablet nello stesso ordine.
+<l, *, en>: Look at my eyes, now I will show you a sequence of five colors, insert them in the tablet in the same order.
+----

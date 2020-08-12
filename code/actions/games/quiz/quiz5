@@ -1,0 +1,63 @@
+TEXT_title
+<*, *, *>: Quiz Time!
+----
+IMAGE_default
+<s, *, *>:  img/quiz/cars.jpg
+----
+TEXT_default
+<s, *, it>: Quante macchine ci sono nella foto?
+<s, *, en>: How many cars are in the picture?
+<m, *, it>: In quale stagione cadono le foglie dagli alberi?
+<m, *, en>: In what season do the leaves fall from the trees?
+<l, *, it>: Con quanti zeri si scrive cento miliardi?
+<l, *, en>: With how many zeros do you write one hundred billion?
+----
+TTS
+<s, *, it>: Quante macchine ci sono nella foto?
+<s, *, en>: How many cars are in the picture?
+<m, *, it>: In quale stagione cadono le foglie dagli alberi?
+<m, *, en>: In what season do the leaves fall from the trees?
+<l, *, it>: Con quanti zeri si scrive cento miliardi?
+<l, *, en>: With how many zeros do you write one hundred billion?
+----
+BUTTONS
+wrong
+<s, *, it>: 3
+<s, *, en>: 3
+<m, *, it>: Inverno
+<m, *, en>: Winter
+<l, *, it>: 8
+<l, *, en>: 8
+correct
+<s, *, it>: 5
+<s, *, en>: 5
+<m, *, it>: Autunno
+<m, *, en>: Autumn
+<l, *, it>: 11
+<l, *, en>: 11
+wrong
+<s, *, it>: 6
+<s, *, en>: 6
+<m, *, it>: Estate
+<m, *, en>: Summer
+<l, *, it>: 10
+<l, *, en>: 10
+wrong
+<s, *, it>: 4
+<s, *, en>: 4
+<m, *, it>: Primavera
+<m, *, en>: Spring
+<l, *, it>: 9
+<l, *, en>: 9
+stop
+<*, *, it>: Basta
+<*, *, en>: Stop
+----
+ASR
+<s, *, it>: { 'correct': ['5'], 'wrong': ['3', '4', '6'], 'stop': ['stop', 'basta', 'fermati'] }
+<s, *, en>: { 'correct': ['5'], 'wrong': ['3', '4', '6'], 'stop': ['stop', 'enough'] }
+<m, *, it>: { 'correct': ['Autunno'], 'wrong': ['Inverno', 'Estate', 'Primavera'], 'stop': ['stop', 'basta', 'fermati'] }
+<m, *, en>: { 'correct': ['Autumn'], 'wrong': ['Winter', 'Summer', 'Spring'], 'stop': ['stop', 'enough'] }
+<l, *, it>: { 'correct': ['11'], 'wrong': ['8', '10', '9'], 'stop': ['stop', 'basta', 'fermati'] }
+<l, *, en>: { 'correct': ['11'], 'wrong': ['8', '10', '9'], 'stop': ['stop', 'enough'] }
+----

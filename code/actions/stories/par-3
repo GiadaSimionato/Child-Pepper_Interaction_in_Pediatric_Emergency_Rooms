@@ -1,0 +1,37 @@
+TEXT_title
+<s,f,it>: Frozen
+<s,f,en>: Frozen
+<l,f,it>: La bella e la bestia
+<l,f,en>: The beauty and the beast
+<*, m, *>: Big Hero 6
+----
+IMAGE_default
+<s, f, *>:  img/stories/frozen/3.png
+<l, f, *>:  img/stories/beautybeast/3.png
+<*, m, *>:  img/stories/bighero6/3.png
+----
+TEXT_default
+<s, f, it>: Anna fu gravemente ferita, quindi i suoi genitori si recarono dagli antichi troll di montagna per chiedere aiuto. Il vecchio saggio troll salvò Anna, ma cancellò tutti i ricordi della magia di Elsa dalla sua testa.
+<s, f, en>: Anna was badly hurt so her parents went to the ancient mountain trolls for help. The wise old troll saved Anna, but he erased all memories of Elsa’s magic from Anna’s head.
+<l, f, it>: Belle lo credeva noioso da morire, mentre Gaston non riusciva a capire perché lei leggesse in continuazione. “Non è appropriato per una donna leggere”, ripeteva.
+<l, f, en>: Belle thought he was a beastly bore, and Gaston didn’t understand why she was always reading. “It’s not right for a woman to read”, he said. 
+<*, m, it>: Tornati a casa Tadashi decide di portare Hiro alla sua scuola, l’istituto di tecnologia di San Fransokyo e lo presenta ai suoi amici. Qui il fratello gli mostra la sua creazione: Baymax, un robot progettato per dare qualsiasi tipo di assistenza medica o sanitaria, registrata nel suo chip. 
+<*, m, en>: Back home, Tadashi decides to take Hiro to his school, the San Fransokyo Institute of Technology, and introduces him to his friends. Here his brother shows him his creation: Baymax, a robot designed to give any type of medical or health care, recorded on his chip.
+----
+TTS
+<s, f, it>: Anna fu gravemente ferita, quindi i suoi genitori si recarono dagli antichi troll di montagna per chiedere aiuto. Il vecchio saggio troll salvò Anna, ma cancellò tutti i ricordi della magia di Elsa dalla sua testa. 
+<s, f, en>: Anna was badly hurt so her parents went to the ancient mountain trolls for help. The wise old troll saved Anna, but he erased all memories of Elsa’s magic from Anna’s head.
+<l, f, it>: Belle lo credeva noioso da morire, mentre Gaston non riusciva a capire perché lei leggesse in continuazione. “Non è appropriato per una donna leggere”, ripeteva.
+<l, f, en>: Belle thought he was a beastly bore, and Gaston didn’t understand why she was always reading. “It’s not right for a woman to read”, he said. 
+<*, m, it>: Tornati a casa Tadashi decide di portare Hiro alla sua scuola, l’istituto di tecnologia di San Fransokyo e lo presenta ai suoi amici. Qui il fratello gli mostra la sua creazione: Baymax, un robot progettato per dare qualsiasi tipo di assistenza medica o sanitaria, registrata nel suo chip. 
+<*, m, en>: Back home, Tadashi decides to take Hiro to his school, the San Fransokyo Institute of Technology, and introduces him to his friends. Here his brother shows him his creation: Baymax, a robot designed to give any type of medical or health care, recorded on his chip.
+----
+ASR
+<*, *, it>: { 'stop': ['stop', 'basta', 'fermati'] }
+<*, *, en>:  { 'stop': ['stop', 'enough'] }
+----
+BUTTONS
+stop
+<*, *, it>: Basta
+<*, *, en>: Stop
+----
